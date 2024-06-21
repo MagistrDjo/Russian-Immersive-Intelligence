@@ -1,1 +1,1 @@
-Это неофициальный перевод мода Immersive Intelligence для Minecraft. 
+Это неофициальный перевод мода Immersive Intelligence для Minecraft. Перевод приостановлен до выхода версии 0.3.1.
