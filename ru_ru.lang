@@ -1290,7 +1290,7 @@ info.immersiveintelligence.towing.no=Не удалось определить б
 info.immersiveintelligence.towing.towed=Успешно прикреплен!
 info.immersiveintelligence.towing.untowed=Успешно откреплен!
 #Do not translate, it's a Factorio reference ^^    Что ты такое ?   (похоронен)
-info.immersiveintelligence.towing.no_easter_egg=Нельзя разъединять подвижной состав, не находясь в транспортном средстве!
+info.immersiveintelligence.towing.no_easter_egg="Нельзя разъединять подвижной состав, не находясь в транспортном средстве!" (factorio)
 
 //Энергия вращения
 
@@ -1385,9 +1385,9 @@ datasystem.immersiveintelligence.function.get_quantity=Получить коли
 datasystem.immersiveintelligence.function.set_quantity=Установить количество
 datasystem.immersiveintelligence.function.get_durability=Получить прочность
 datasystem.immersiveintelligence.function.set_durability=Установить прочность
-datasystem.immersiveintelligence.function.get_nbt=Получить NBT
-datasystem.immersiveintelligence.function.set_nbt=Установить NBT
-datasystem.immersiveintelligence.function.get_itemstack=Создавать из ID
+datasystem.immersiveintelligence.function.get_nbt=Получить NBT теги
+datasystem.immersiveintelligence.function.set_nbt=Установить NBT теги
+datasystem.immersiveintelligence.function.get_itemstack=Взять число стака предмета
 datasystem.immersiveintelligence.function.get_item_id=Взять ID предмета
 datasystem.immersiveintelligence.function.can_stack_with=Можно складывать с 
 datasystem.immersiveintelligence.function.matches_oredict=Соответствует oreDictionary
@@ -1400,9 +1400,9 @@ datasystem.immersiveintelligence.function.array_swap=Swap
 datasystem.immersiveintelligence.function.array_length=Взять длину
 
 datasystem.immersiveintelligence.function.entity_get_id=Взять ID
-datasystem.immersiveintelligence.function.entity_get_type=Взять Тип
-datasystem.immersiveintelligence.function.entity_get_name=Взять Название
-datasystem.immersiveintelligence.function.entity_get_dimension_id=Взять Измерение
+datasystem.immersiveintelligence.function.entity_get_type=Взять тип
+datasystem.immersiveintelligence.function.entity_get_name=Взять название
+datasystem.immersiveintelligence.function.entity_get_dimension_id=Взять измерение
 datasystem.immersiveintelligence.function.entity_get_x=Взять X
 datasystem.immersiveintelligence.function.entity_get_y=Взять Y
 datasystem.immersiveintelligence.function.entity_get_z=Взять Z
@@ -1410,8 +1410,8 @@ datasystem.immersiveintelligence.function.entity_get_z=Взять Z
 datasystem.immersiveintelligence.function.document_read_page=Считать страницу
 datasystem.immersiveintelligence.function.document_read_all_pages_array=Считать все страницы (Массив)
 datasystem.immersiveintelligence.function.document_read_all_pages_string=Считать все страницы (Строка)
-datasystem.immersiveintelligence.function.document_get_author=Взять Автора
-datasystem.immersiveintelligence.function.document_get_title=Взять Название
+datasystem.immersiveintelligence.function.document_get_author=Взять автора
+datasystem.immersiveintelligence.function.document_get_title=Взять название
 
 datasystem.immersiveintelligence.function.is_null=Is Null
 datasystem.immersiveintelligence.function.is_same_type=Is Same Type
@@ -1421,12 +1421,12 @@ datasystem.immersiveintelligence.function.to_string=Преобразовать �
 datasystem.immersiveintelligence.function.to_boolean=Преобразовать в логическую переменную
 datasystem.immersiveintelligence.function.to_null=Преобразовать в ноль
 
-datasystem.immersiveintelligence.function.encrypt_text=Зашифровать Text
-datasystem.immersiveintelligence.function.encrypt_number=Зашифровать Number
-datasystem.immersiveintelligence.function.encrypt_array=Зашифровать Array
-datasystem.immersiveintelligence.function.decrypt_text=Разшифровать Text
-datasystem.immersiveintelligence.function.decrypt_number=Разшифровать Number
-datasystem.immersiveintelligence.function.decrypt_array=Разшифровать Array
+datasystem.immersiveintelligence.function.encrypt_text=Зашифровать текст
+datasystem.immersiveintelligence.function.encrypt_number=Зашифровать число
+datasystem.immersiveintelligence.function.encrypt_array=Зашифровать массив
+datasystem.immersiveintelligence.function.decrypt_text=Расшифровать текст
+datasystem.immersiveintelligence.function.decrypt_number=Расшифровать число
+datasystem.immersiveintelligence.function.decrypt_array=Расшифровать массив
 
 datasystem.immersiveintelligence.datatype.null=Пусто
 datasystem.immersiveintelligence.datatype.boolean=Логиский тип данных
@@ -1437,7 +1437,7 @@ datasystem.immersiveintelligence.datatype.vector=Вектор
 datasystem.immersiveintelligence.datatype.expression=Выражение
 datasystem.immersiveintelligence.datatype.accessor=Доступ
 datasystem.immersiveintelligence.datatype.itemstack=Стак предметов
-datasystem.immersiveintelligence.datatype.fluidstack=FluidStack
+datasystem.immersiveintelligence.datatype.fluidstack=Стак жидкости
 datasystem.immersiveintelligence.datatype.array=Массив
 datasystem.immersiveintelligence.datatype.map=Карта
 datasystem.immersiveintelligence.datatype.entity=Сущность
@@ -1622,7 +1622,7 @@ advancement.immersiveintelligence.craft_mine_detector.desc=Изготовьте 
 
 #Особености национальной охоты (с газом / без газа)
 advancement.immersiveintelligence.secret_nuclear_tripmine=Особености национальной охоты
-advancement.immersiveintelligence.secret_nuclear_tripmine.desc=Установить атомную мину-растяжку
+advancement.immersiveintelligence.secret_nuclear_tripmine.desc=Установить ядерную мину-растяжку
 
 advancement.immersiveintelligence.rad_cannon=Распространение погибели и истребление
 advancement.immersiveintelligence.rad_cannon.desc=Стать ходячим вызовом стабильности окружающей среды
@@ -1630,14 +1630,14 @@ advancement.immersiveintelligence.rad_cannon.desc=Стать ходячим вы
 advancement.immersiveintelligence.secret_cocoa=Истории Деко Моррено
 advancement.immersiveintelligence.secret_cocoa.desc=Достигнуто высшее качество.
 
-advancement.immersiveintelligence.secret_carvers_revenge=Оппенгеймер
+advancement.immersiveintelligence.secret_carvers_revenge=Сarver = Оппенгеймер
 advancement.immersiveintelligence.secret_carvers_revenge.desc=Что вы имеете в виду, говоря, что у нас не может быть ядерных установок, управляемых разумом?
 
 #Оно и так идеально
 advancement.immersiveintelligence.create_motorbike=Za vas, za nas, za neft' i gaz!
 advancement.immersiveintelligence.create_motorbike.desc=Создайте Мотоцикл
 
-
+# Не прощяю
 advancement.immersiveintelligence.secret_sorry_for_ceiling=Извините за ваш потолок!
 advancement.immersiveintelligence.secret_sorry_for_ceiling.desc=Испытайте, как снаряд из гаубицы пробивает крышу, распространяя вашу пропаганду.
 
@@ -1664,12 +1664,12 @@ ie.manual.folder.folder=Папка
 ie.manual.folder.device=Устройство
 ie.manual.folder.sekritdokuments=Секретные документы
 
-ie.manual.entry.traits.level_beginner=Complexity: Доиндустриальный век
-ie.manual.entry.traits.level_early_industrial=Complexity: Ранний индустриальная Эпоха
-ie.manual.entry.traits.level_industrial=Complexity: Индустриальная Эра
-ie.manual.entry.traits.level_advanced_industrial=Complexity: Поздний индустриальная Эпоха
-ie.manual.entry.traits.level_circuits=Complexity: Электроная Эра
-ie.manual.entry.traits.level_computer=Complexity: Век компьютеров
+ie.manual.entry.traits.level_beginner=Complexity: Доиндустриальнная эра
+ie.manual.entry.traits.level_early_industrial=Complexity: Ранний индустриальная эпоха
+ie.manual.entry.traits.level_industrial=Complexity: Индустриальнный век
+ie.manual.entry.traits.level_advanced_industrial=Complexity: Поздний индустриальная эпоха
+ie.manual.entry.traits.level_circuits=Complexity: Электроная век
+ie.manual.entry.traits.level_computer=Complexity: Эра компьютеров
 ie.manual.entry.traits.hammer=Базовый мультиблок - Формируйте с использованием Инженерного молота
 ie.manual.entry.traits.hammer_electric=Продвинутый мультиблок - Формируйте с использованием Электрического молота 
 ie.manual.entry.traits.upgradable=Модернизируемый
