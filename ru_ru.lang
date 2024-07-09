@@ -1,7 +1,7 @@
 //Переводил на русский "Королевский кот". Передаю привет вискасу и такпкам. МЯУ!
 # До версии 0.3.1 переводил Magistr Djo  (почти) 
 //Предметы
-itemGroup.immersiveintelligence=Immersive Intelligence
+itemGroup.immersiveintelligence=Иммерсивный Интеллект
 
 item.immersiveintelligence.material.basic_circuit_board_raw.name=Сырая простая печатная плата
 item.immersiveintelligence.material.basic_circuit_board_etched.name=Травленая простая печатная плата
@@ -333,7 +333,7 @@ desc.immersiveintelligence.toolupgrade.internal_springs=Защищает пол�
 
 item.immersiveintelligence.data_wire.name=Катушка кабеля данных
 
-item.immersiveintelligence.trip_wire.name=Провод растяжки
+item.immersiveintelligence.trip_wire.name=Проволка растяжки
 
 item.immersiveintelligence.small_wirecoil.data.name=Малая катушка кабеля данных
 item.immersiveintelligence.small_wirecoil.redstone.name=Малая катушка редстоун-кабеля 
@@ -360,42 +360,42 @@ item.immersiveintelligence.sawblade.steel.name=Стальное лезвие п�
 item.immersiveintelligence.sawblade.tungsten.name=Вольфрамовое лезвие пилы
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //bCal - Блок-Калибр (1/16 Блока = 1 bCal)
-item.immersiveintelligence.ammo_casing.artillery_8bcal.name=Корпус артирилийского снаряда 8-б\Кал
-item.immersiveintelligence.artillery_8bCal.core.name=Заряд артирилийского снаряда 8-б\Кал
-item.immersiveintelligence.artillery_8bCal.bullet.name=Артирилийский снаряд 8-б\Кал
+item.immersiveintelligence.ammo_casing.artillery_8bcal.name=Корпус артириллейского снаряда 8-б\Кал
+item.immersiveintelligence.artillery_8bCal.core.name=Заряд артириллейского снаряда 8-б\Кал
+item.immersiveintelligence.artillery_8bCal.bullet.name=Артириллейский снаряд 8-б\Кал
 
 item.immersiveintelligence.ammo_casing.mortar_6bcal.name=Гильза 6-б\Кал Мины
 item.immersiveintelligence.mortar_6bCal.core.name=Заряд 6-б\Кал Мины
 item.immersiveintelligence.mortar_6bCal.bullet.name=6-б\Кал Мина
 
-item.immersiveintelligence.ammo_casing.light_artillery_6bcal.name=Корпус артирилийского снаряда 6-б\Кал
-item.immersiveintelligence.artillery_6bCal.core.name=Заряд артирилийского снаряда 6-б\Кал
-item.immersiveintelligence.artillery_6bCal.bullet.name=Артирилийский снаряд 6-б\Кал
+item.immersiveintelligence.ammo_casing.light_artillery_6bcal.name=Корпус легкого артириллейского снаряда 6-б\Кал
+item.immersiveintelligence.artillery_6bCal.core.name=Заряд легкого артириллейского снаряда 6-б\Кал
+item.immersiveintelligence.artillery_6bCal.bullet.name=Легкий артириллейского снаряд 6-б\Кал
 
-item.immersiveintelligence.ammo_casing.mg_2bcal.name=Пулемётная гильза
-item.immersiveintelligence.mg_2bCal.core.name=Пулемётный сердечник
-item.immersiveintelligence.mg_2bCal.bullet.name=Пулемётный патрон
+item.immersiveintelligence.ammo_casing.mg_2bcal.name=Гильза пулемётнного патрона
+item.immersiveintelligence.mg_2bCal.core.name=Сердечник пулемётнного патрона
+item.immersiveintelligence.mg_2bCal.bullet.name=Пулемётный патрон 2-б\Кал
 
-item.immersiveintelligence.ammo_casing.stg_1bcal.name=Гильза автомата
-item.immersiveintelligence.stg_1bCal.core.name=Автоматный сердечник
-item.immersiveintelligence.stg_1bCal.bullet.name=Автоматный патрон
+item.immersiveintelligence.ammo_casing.stg_1bcal.name=Гильза промежточнного патрона
+item.immersiveintelligence.stg_1bCal.core.name=Сердечник промежточнного патрона
+item.immersiveintelligence.stg_1bCal.bullet.name=Промежточный патрон 1-б\Кал
 
-item.immersiveintelligence.ammo_casing.smg_1bcal.name=Гильза пистолета-пулемёта
-item.immersiveintelligence.smg_1bCal.core.name=Сердечник пистолета-пулемёта
-item.immersiveintelligence.smg_1bCal.bullet.name=Патрон пистолета-пулемёта
+item.immersiveintelligence.ammo_casing.smg_1bcal.name=Гильза пистолетнного патрона
+item.immersiveintelligence.smg_1bCal.core.name=Сердечник пистолетнного патрона
+item.immersiveintelligence.smg_1bCal.bullet.name=Пистолетный патрон 1-б\Кал
 
 item.immersiveintelligence.revolver_1bCal.core.name=Гильза револьвера
-item.immersiveintelligence.bullet.revolver_1bCal.name=Револьверный патрон
+item.immersiveintelligence.bullet.revolver_1bCal.name=Револьверный патрон 1-б\Кал
 
 item.immersiveintelligence.ammo_casing.autocannon_3bcal.name=Гильза 3 б\Кал
 item.immersiveintelligence.autocannon_3bCal.core.name=Сердечник 3 б\Кал
 item.immersiveintelligence.autocannon_3bCal.bullet.name=Снаряд 3 б\Кал
 
-item.immersiveintelligence.grenade_5bCal.core.name=Ядро ручной гранаты
+item.immersiveintelligence.grenade_5bCal.core.name=Заряд ручной гранаты
 item.immersiveintelligence.grenade_5bCal.bullet.name=Ручная граната
 
 item.immersiveintelligence.railgun_grenade_4bCal.core.name=Заряд подствольной рельсотронной гранаты
-item.immersiveintelligence.railgun_grenade_4bCal.bullet.name=Подствольная рельсотронная граната
+item.immersiveintelligence.railgun_grenade_4bCal.bullet.name=Подствольная рельсотронная граната 4-б\Кал
 
 
 ///////////////////////////////////////////////////////////////////////////////
@@ -520,31 +520,31 @@ tile.immersiveintelligence.cloth_decoration.coil_cloth_motor_belt.name=Ткан�
 tile.immersiveintelligence.cloth_decoration.coil_rubber_motor_belt.name=Резиновый ремень
 
 tile.immersiveintelligence.stone_decoration.sandbags.name=Мешки с песком
-tile.immersiveintelligence.mine_sign.mine_sign.desc=Осторожно;Мины!
+tile.immersiveintelligence.mine_sign.mine_sign.desc=Стоп  Мины!
 
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_conveyor.name=Резиновая конвейерная лента
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_uncontrolled.name=Резиновая конвейерная лента
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_conveyor.name=Резиновый конвейер
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_uncontrolled.name=Резиновый конвейер
 tile.immersiveengineering.conveyor.immersiveintelligence:rubber_uncontrolled.flavour=Игнорирует управление редстоуном
 tile.immersiveengineering.conveyor.immersiveintelligence:rubber_dropper.name=Dropping Rubber Conveyor Belt
 tile.immersiveengineering.conveyor.immersiveintelligence:rubber_droppercovered.name=Dropping Covered Rubber Conveyor Belt
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_vertical.name=Вертикальная резиновая конвейерная лента
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_vertical.name=Вертикальный резиновый конвейер
 tile.immersiveengineering.conveyor.immersiveintelligence:rubber_splitter.name=Splitting Rubber Conveyor Belt
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_covered.name=Резиновая конвейерная лента в корпусе
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_verticalcovered.name=Вертикальная резиновая конвейерная лента в корпусе
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_extract.name=Извлекающая резиновая конвейерная лента
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_extractcovered.name=Извлекающая резиновая конвейерная лента в корпусе
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_covered.name=Резиновый конвейер в корпусе
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_verticalcovered.name=Вертикальный резиновый конвейер в корпусе
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_extract.name=Извлекающый резиновый конвейер
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_extractcovered.name=Извлекающый резиновый конвейер в корпусе
 
 #due to how IE's base classes are designed, I had to use a "main" as only value in IIBlockTypes_Mine
 #redundant? yes, works? yes
 tile.immersiveintelligence.tripmine.main.name=Растяжка
 tile.immersiveintelligence.tripmine.core.name=Заряд растяжки
 #Same as above (for the landmine and explosives), this is due to how the projectile workshop gets the translation
-item.immersiveintelligence.ammo_casing.tripmine.name=Гильза растяжки
+item.immersiveintelligence.ammo_casing.tripmine.name=Корпус растяжки
 tile.immersiveintelligence.tripwire_connector.main.name=Крепёж растяжки
 
 tile.immersiveintelligence.tellermine.main.name=Наземная мина
 tile.immersiveintelligence.tellermine.core.name=Заряд наземной мины
-item.immersiveintelligence.ammo_casing.tellermine.name=гильза наземной мины
+item.immersiveintelligence.ammo_casing.tellermine.name=Корпус наземной мины
 
 tile.immersiveintelligence.radio_explosives.main.name=Радиобомба
 tile.immersiveintelligence.radio_explosives.core.name=Заряд радиобомбы
@@ -552,7 +552,7 @@ item.immersiveintelligence.ammo_casing.radio_explosives.name=Ранец ради
 
 item.immersiveintelligence.naval_mine.bullet.name=Морская мина
 item.immersiveintelligence.naval_mine.core.name=Заряд морской мины
-item.immersiveintelligence.ammo_casing.naval_mine.name=Гильза морской мины
+item.immersiveintelligence.ammo_casing.naval_mine.name=Корпус морской мины
 
 tile.immersiveintelligence.stone_decoration.sandbags.name=Мешки с песком
 
@@ -629,7 +629,7 @@ tile.immersiveintelligence.data_connector.alarm_siren.name=Сирена
 tile.immersiveintelligence.data_connector.programmable_speaker.name=Программируемая сирена
 
 tile.immersiveintelligence.data_connector.inserter.name=Манипулятор
-tile.immersiveintelligence.data_connector.advanced_inserter.name=Продвинутых манипулятор
+tile.immersiveintelligence.data_connector.advanced_inserter.name=Продвинутый манипулятор
 tile.immersiveintelligence.data_connector.fluid_inserter.name=Жидкостный загрузчик
 tile.immersiveintelligence.data_connector.advanced_fluid_inserter.name=Продвинутый жидкостный загрузчик
 
@@ -969,6 +969,8 @@ entity.tripod_periscope.name=Перископ
 
 entity.hans.name=Ганс
 
+
+
 #Skins
 skin.immersiveintelligence.anno_1880.name=Anno 1880
 skin.immersiveintelligence.anno_1880.desc=Изысканный, точный, декоративный
@@ -1014,6 +1016,8 @@ skin.immersiveintelligence.magnate.text=Скин, получаемый в наг
 skin.immersiveintelligence.investor.name=Инвестор
 skin.immersiveintelligence.investor.desc=Маленькая награда за большую щедрость
 skin.immersiveintelligence.investor.text=Скин, получаемый в награду за пожертвование 15 или более долларов на Patreon.
+
+
 
 #Machine Upgrades
 machineupgrade.immersiveintelligence.inserter=Inserter
@@ -1093,6 +1097,8 @@ machineupgrade.immersiveintelligence.rs_activation.desc=Attaching a redstone wir
 
 machineupgrade.immersiveintelligence.razor_wire=Колючая проволока
 machineupgrade.immersiveintelligence.razor_wire.desc=Прикрепляет колючую проволоку поверх ворот, нанося урон любому врагу, который осмелится попытаться перелезть через них.
+
+
 
 //Описания
 desc.immersiveintelligence.radio_configurator_basic=Позволяет установить частоту для основных радиоустройств.
@@ -1620,7 +1626,7 @@ advancement.immersiveintelligence.craft_tripod_periscope.desc=Изготовьт
 advancement.immersiveintelligence.craft_mine_detector=Это НЕ пылесос
 advancement.immersiveintelligence.craft_mine_detector.desc=Изготовьте Миноискатель
 
-#Особености национальной охоты (с газом / без газа)
+#Особености национальной рыбалки (с газом / без газа)
 advancement.immersiveintelligence.secret_nuclear_tripmine=Особености национальной охоты
 advancement.immersiveintelligence.secret_nuclear_tripmine.desc=Установить ядерную мину-растяжку
 
@@ -2580,10 +2586,16 @@ subtitle.immersiveintelligence.autocannon_unload=Автопушка разряж
 # У саперной лопатки нет описания 
 desc.immersiveintelligence.trench_shovel=Я сапёрная лопатка, я сапёрная лопатка, я сапёрная лопатка.
 
-# Тестовые строки
 item.immersiveintelligence.precission_buzzsaw.name=Точная циркулярная пила
 item.immersiveintelligence.precission_drill.name=Точная дрель
 item.immersiveintelligence.precission_inserter.name=Точный манипулятор
 item.immersiveintelligence.precission_solderer.name=Точный паяльник
 item.immersiveintelligence.precission_welder.name=Точный сварщик
 item.immersiveintelligence.precission_hammer.name=Точный молоток
+
+# Тестовые строки
+
+item.immersiveintelligence.tracer_powder.tracer_powder.name=Трассирующая пыль
+
+
+
