@@ -1,6 +1,6 @@
    Это неофициальный перевод мода Immersive Intelligence для Minecraft. 
    Перевод мода возноблён.
-   Руковолство инженера не будет переводится до выхода версии 0.3.1
+   Руководство инженера не будет переводится до выхода версии 0.3.1
    
    Сслыка на мод https://github.com/Team-Immersive-Intelligence/ImmersiveIntelligence
    
