@@ -67,16 +67,16 @@ item.immersiveintelligence.binoculars.infrared_binoculars.name=Инфракра�
 
 item.immersiveintelligence.assembly_scheme.name=Сборочная схема
 
-item.immersiveintelligence.press_mold.howitzer.name=Пресс-форма для металла: артерилийская гильза
+item.immersiveintelligence.press_mold.howitzer.name=Пресс-форма для металла: Артерилийская гильза
 item.immersiveintelligence.press_mold.medium_howitzer.name=Пресс-форма для металла: Гильза среднего артиллерийского снаряда
 item.immersiveintelligence.press_mold.light_howitzer.name=Пресс-форма для металла: Гильза легкого артиллерийского снаряда
-item.immersiveintelligence.press_mold.mortar.name=Пресс-форма для металла: Гильза миномёта
-item.immersiveintelligence.press_mold.light_gun.name=Пресс-форма для металла: Гильза для пистолета
+item.immersiveintelligence.press_mold.mortar.name=Пресс-форма для металла: Корпус мины миномёта
+item.immersiveintelligence.press_mold.light_gun.name=Пресс-форма для металла: Гильза для light gun 4б/кал
 item.immersiveintelligence.press_mold.autocannon.name=Пресс-форма для металла: Гильза автоматической пушки
 item.immersiveintelligence.press_mold.shotgun.name=Пресс-форма для металла: Гильза для дробовика
-item.immersiveintelligence.press_mold.machinegun.name=Пресс-форма для металла: Гильза для пулемёта
-item.immersiveintelligence.press_mold.assault_rifle.name=Пресс-форма для металла: Гильза для автомата
-item.immersiveintelligence.press_mold.submachinegun.name=Пресс-форма для металла: Гильза для пистолета-пулемёта
+item.immersiveintelligence.press_mold.machinegun.name=Пресс-форма для металла: Винтовочная гильза
+item.immersiveintelligence.press_mold.assault_rifle.name=Пресс-форма для металла: Промежуточная гильза
+item.immersiveintelligence.press_mold.submachinegun.name=Пресс-форма для металла: Пистолетная гильза
 item.immersiveintelligence.press_mold.naval_mine.name=Пресс-форма для металла: Морская мина
 item.immersiveintelligence.press_mold.tripmine.name=Пресс-форма для металла: Растяжка
 item.immersiveintelligence.press_mold.tellermine.name=Пресс-форма для металла: Наземная мина
@@ -415,13 +415,13 @@ item.immersiveintelligence.ammo_casing.guided_missile_6bcal.name=Корпус р
 item.immersiveintelligence.missile_guided_6bcal.core.name=Заряд ракеты проводного наведения
 item.immersiveintelligence.missile_guided_6bcal.bullet.name=Ракета проводного наведения
 
-item.immersiveintelligence.ammo_casing.mg_2bcal.name=Гильза пулемётнного патрона
-item.immersiveintelligence.mg_2bCal.core.name=Сердечник пулемётнного патрона
-item.immersiveintelligence.mg_2bCal.bullet.name=Пулемётный патрон 2-б\Кал
+item.immersiveintelligence.ammo_casing.mg_2bcal.name=Гильза винтовочного патрона
+item.immersiveintelligence.mg_2bCal.core.name=Сердечник винтовочного патрона
+item.immersiveintelligence.mg_2bCal.bullet.name=Винтовочный патрон 2-б\Кал
 
-item.immersiveintelligence.ammo_casing.stg_1bcal.name=Гильза промежточнного патрона
-item.immersiveintelligence.stg_1bCal.core.name=Сердечник промежточнного патрона
-item.immersiveintelligence.stg_1bCal.bullet.name=Промежточный патрон 1-б\Кал
+item.immersiveintelligence.ammo_casing.stg_1bcal.name=Гильза промежуточнного патрона
+item.immersiveintelligence.stg_1bCal.core.name=Сердечник промежуточнного патрона
+item.immersiveintelligence.stg_1bCal.bullet.name=Промежуточный патрон 1-б\Кал
 
 item.immersiveintelligence.ammo_casing.smg_1bcal.name=Гильза пистолетнного патрона
 item.immersiveintelligence.smg_1bCal.core.name=Сердечник пистолетнного патрона
@@ -535,7 +535,7 @@ tile.immersiveintelligence.fence_duraluminium.name=Дюралюминивый З
 
 tile.immersiveintelligence.rubber_log.raw.name=Бревно каучукавого дерева
 tile.immersiveintelligence.rubber_log.rebbur.name=Отверстие для извлечения каучука
-tile.immersiveintelligence.rubber_log.stripped.name=Stripped Latex Extraction Point
+tile.immersiveintelligence.rubber_log.stripped.name=Очищенная точка для извлечения каучука
 tile.immersiveintelligence.rubber_leaves.rubber.name=Листья каучукавого дерева
 tile.immersiveintelligence.rubber_sapling.rubber.name=Сажанец каучукавого дерева
 tile.immersiveintelligence.charred_log.main.name=Обгленное бревно
@@ -569,15 +569,15 @@ tile.immersiveintelligence.mine_sign.mine_sign.desc=Стоп;Мины!
 
 tile.immersiveengineering.conveyor.immersiveintelligence:rubber_conveyor.name=Резиновый конвейер
 tile.immersiveengineering.conveyor.immersiveintelligence:rubber_uncontrolled.name=Резиновый конвейер
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_uncontrolled.flavour=Игнорирует управление редстоуном
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_dropper.name=Dropping Rubber Conveyor Belt
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_droppercovered.name=Dropping Covered Rubber Conveyor Belt
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_uncontrolled.flavour=Игнорирует управление красного камня
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_dropper.name=Сбрасывающий резиновый конвейер
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_droppercovered.name=Крытый сбрасывающий резиновый конвейер
 tile.immersiveengineering.conveyor.immersiveintelligence:rubber_vertical.name=Вертикальный резиновый конвейер
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_splitter.name=Splitting Rubber Conveyor Belt
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_covered.name=Резиновый конвейер в корпусе
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_verticalcovered.name=Вертикальный резиновый конвейер в корпусе
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_splitter.name=Разделяющий резиновый конвейер
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_covered.name=Крытый резиновый конвейер
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_verticalcovered.name=Крытый вертикальный резиновый конвейер
 tile.immersiveengineering.conveyor.immersiveintelligence:rubber_extract.name=Извлекающый резиновый конвейер
-tile.immersiveengineering.conveyor.immersiveintelligence:rubber_extractcovered.name=Извлекающый резиновый конвейер в корпусе
+tile.immersiveengineering.conveyor.immersiveintelligence:rubber_extractcovered.name=Крытый извлекающый резиновый конвейер
 
 #due to how IE's base classes are designed, I had to use a "main" as only value in IIBlockTypes_Mine
 #redundant? yes, works? yes
@@ -740,12 +740,12 @@ desc.immersiveintelligence.metal_multiblock1.emplacement.upgrades=Установ
 desc.immersiveintelligence.metal_multiblock1.emplacement.settings=Настройки
 desc.immersiveintelligence.metal_multiblock1.emplacement.redstone_control=Контролируемый редстоуном
 desc.immersiveintelligence.metal_multiblock1.emplacement.data_control=Контролируемый данными
-desc.immersiveintelligence.metal_multiblock1.emplacement.send_attack_signal=Output target(s) trough data
-desc.immersiveintelligence.metal_multiblock1.emplacement.auto_repair_threshold=Repair when health is below:
-desc.immersiveintelligence.metal_multiblock1.emplacement.selector_preset=Selector Preset
+desc.immersiveintelligence.metal_multiblock1.emplacement.send_attack_signal=Выводить цель(и) с помощью данных
+desc.immersiveintelligence.metal_multiblock1.emplacement.auto_repair_threshold=Ремонтируйте, когда уровень здоровья ниже:
+desc.immersiveintelligence.metal_multiblock1.emplacement.selector_preset=Предустановка выбора
 desc.immersiveintelligence.metal_multiblock1.emplacement.filter=Фильтр
-desc.immersiveintelligence.metal_multiblock1.emplacement.task_enabled=Enabled
-desc.immersiveintelligence.metal_multiblock1.emplacement.task_negation=Negation
+desc.immersiveintelligence.metal_multiblock1.emplacement.task_enabled=Включенный
+desc.immersiveintelligence.metal_multiblock1.emplacement.task_negation=Выключенный
 desc.immersiveintelligence.metal_multiblock1.emplacement.add=Добавить
 desc.immersiveintelligence.metal_multiblock1.emplacement.remove=Удалять
 desc.immersiveintelligence.metal_multiblock1.emplacement.duplicate=Копировать
@@ -971,14 +971,14 @@ subtitle.immersiveintelligence.fuel_station=Заправка топливом
 subtitle.immersiveintelligence.welding=Сварка
 subtitle.immersiveintelligence.sawmill=Лесопилка работает
 
-subtitle.immersiveintelligence.drawer_open=Drawer Slides Out
-subtitle.immersiveintelligence.drawer_close=Drawer Slides In
+subtitle.immersiveintelligence.drawer_open=Выдвижной ящик выдвигается
+subtitle.immersiveintelligence.drawer_close=Выдвижной ящик задвигается
 subtitle.immersiveintelligence.metal_locker_open=Дверца шкафчика открывается
 subtitle.immersiveintelligence.metal_locker_close=Дверца шкафчика закрывается
 subtitle.immersiveintelligence.metal_hatch_open=Металлический люк открывается
 subtitle.immersiveintelligence.metal_hatch_close=Металлический люк закрывается
-subtitle.immersiveintelligence.vise_open=Vise Tightens its Clamps
-subtitle.immersiveintelligence.vise_close=Vise Loosens its Clamps
+subtitle.immersiveintelligence.vise_open=Тиски закручиваються 
+subtitle.immersiveintelligence.vise_close=Тиски разкручиваються 
 
 subtitle.immersiveintelligence.autocannon_shot=Автопушка стреляет
 subtitle.immersiveintelligence.autocannon_shot_distant=Автопушка стреляет вдалеке
@@ -1081,80 +1081,80 @@ skin.immersiveintelligence.investor.text=Скин, получаемый в на�
 
 
 #Machine Upgrades
-machineupgrade.immersiveintelligence.inserter=Inserter
-machineupgrade.immersiveintelligence.inserter.desc=Adding an inserter to a crate allows it to operate automatically in a 3 blocks radius if supplied with power.
+machineupgrade.immersiveintelligence.inserter=Вставщик
+machineupgrade.immersiveintelligence.inserter.desc=Установка устройства для установки в ящик позволяет ему автоматически работать в радиусе 3 кварталов при наличии питания.
 
-machineupgrade.immersiveintelligence.mg_loader=Belt Feeder
-machineupgrade.immersiveintelligence.mg_loader.desc=Expanding the ammo compartments allows to feed bullets directly to a machinegun after some modifications. Crate must be open to provide ammunition.
+machineupgrade.immersiveintelligence.mg_loader=Ленточный питатель
+machineupgrade.immersiveintelligence.mg_loader.desc=Расширение отсеков для боеприпасов позволяет после некоторых модификаций загружать патроны непосредственно в пулемет. Ящик с боеприпасами должен быть открыт.
 
 machineupgrade.immersiveintelligence.improved_gearbox=Улучшенная коробка передач
 machineupgrade.immersiveintelligence.improved_gearbox.desc=Замена стандартного редуктора на усовершенствованную модель значительно увеличивает скорость машины и количество энергии, требуемой для работы.
 
-machineupgrade.immersiveintelligence.saw_unregulator=Saw Unregulator
-machineupgrade.immersiveintelligence.saw_unregulator.desc=Unregulating the saw leads to higher sawdust output in cost of main output amount.
+machineupgrade.immersiveintelligence.saw_unregulator=Регулятор хода пилы
+machineupgrade.immersiveintelligence.saw_unregulator.desc=Нерегулируемая работа пилы приводит к увеличению выхода опилок по сравнению с основным объемом производства.
 
-machineupgrade.immersiveintelligence.emplacement_grenades=Emergency Smoke Dischargers
-machineupgrade.immersiveintelligence.emplacement_grenades.desc=When emplacement's weapon is heavily damaged, smoke will be discharged to provide cover.
+machineupgrade.immersiveintelligence.emplacement_grenades=Аварийные дымовые шашки
+machineupgrade.immersiveintelligence.emplacement_grenades.desc=Когда огневое оружие сильно повреждено, для обеспечения прикрытия будет выпущен дым.
 
-machineupgrade.immersiveintelligence.emplacement_bearings=Sturdy Bearings
-machineupgrade.immersiveintelligence.emplacement_bearings.desc=Higher quality bearings increase the maximum weapon rotation speed, to work at full capacity lubrication is required
+machineupgrade.immersiveintelligence.emplacement_bearings=Прочные подшипники
+machineupgrade.immersiveintelligence.emplacement_bearings.desc=Подшипники более высокого качества увеличивают максимальную скорость вращения оружия, для работы на полную мощность требуется смазка
 
 machineupgrade.immersiveintelligence.infrared_observer=Инфракрасный наблюдатель
 machineupgrade.immersiveintelligence.infrared_observer.desc=Инфракрасный наблюдатель позволяет вести наблюдение за удаленными врагами и передавать их координаты по кабелям передачи данных.
 
 machineupgrade.immersiveintelligence.cpds=СПРО
-machineupgrade.immersiveintelligence.cpds.desc=Система противоракетной обороны - это современное противовоздушное оружие, способное уничтожать летящие артиллерийские снаряды в воздухе.
+machineupgrade.immersiveintelligence.cpds.desc=Система ПротивоРакетной Обороны (СПРО) - это современное противовоздушное оружие, способное уничтожать летящие артиллерийские снаряды в воздухе.
 
 machineupgrade.immersiveintelligence.autocannon=Автоматическая пушка
 machineupgrade.immersiveintelligence.autocannon.desc=Четыре автоматические пушки 3 б\Кал обеспечивают большую огневую мощь, что делает это оружие универсальным средством защиты от воздушных и наземных целей.
 
-machineupgrade.immersiveintelligence.heavy_chemthrower=Heavy Chemthrower
-machineupgrade.immersiveintelligence.heavy_chemthrower.desc=A heavier version of the well known Chemthrower, higher pressure allows for attacking enemies at ranges 4 times longer than the portable one.
+machineupgrade.immersiveintelligence.heavy_chemthrower=Тяжёлый жидкомет
+machineupgrade.immersiveintelligence.heavy_chemthrower.desc=Более тяжелая версия хорошо известного химического гранатомета с более высоким давлением позволяет атаковать врагов на расстоянии в 4 раза большем, чем у портативного.
 
-machineupgrade.immersiveintelligence.heavy_railgun=Heavy Railgun
-machineupgrade.immersiveintelligence.heavy_railgun.desc=Heavy Railgun provides direct fire support. It can launch metal rods or grenades with high velocity, allowing piercing of enemies and materiel.
+machineupgrade.immersiveintelligence.heavy_railgun=Тяжёлый Рельсотрон
+machineupgrade.immersiveintelligence.heavy_railgun.desc=Тяжелый рельсотрон обеспечивает прямую огневую поддержку. Он может запускать металлические стержни или гранаты с высокой скоростью, что позволяет пробивать врагов и материалы.
 
-machineupgrade.immersiveintelligence.machinegun=Machinegun Nest
-machineupgrade.immersiveintelligence.machinegun.desc=The Machinegun Nest can provide suppressive automatic fire, allowing crowd control. Due to its construction, it is unable to fight airborne enemies.
+machineupgrade.immersiveintelligence.machinegun=Пулемётное гнездо
+machineupgrade.immersiveintelligence.machinegun.desc=Пулеметное гнездо может вести подавляющий автоматический огонь, что позволяет сдерживать толпу. Из-за своей конструкции оно не может сражаться с воздушными врагами.
 
-machineupgrade.immersiveintelligence.mg_heavy_barrel=Heavy Barrel
-machineupgrade.immersiveintelligence.mg_heavy_barrel.desc=The heavy barrels allow for much faster firing rate and slightly increase the maximum permitted overheat.
+machineupgrade.immersiveintelligence.mg_heavy_barrel=Тяжелый ствол
+machineupgrade.immersiveintelligence.mg_heavy_barrel.desc=Тяжелый ствол обеспечивает гораздо более высокую скорострельность и немного увеличивают максимально допустимый перегрев.
 
-machineupgrade.immersiveintelligence.mg_watercooled=Water Cooled Barrel
-machineupgrade.immersiveintelligence.mg_watercooled.desc=A replacement for the stock barrels. When mounted, barrels do not overheat when a coolant is provided.
+machineupgrade.immersiveintelligence.mg_watercooled=Бочонок с водяным охлаждением
+machineupgrade.immersiveintelligence.mg_watercooled.desc=Замена стандартных бочек. При монтаже бочки не перегреваются при подаче охлаждающей жидкости.
 
-machineupgrade.immersiveintelligence.mg_bunker=Additional Fortifications
-machineupgrade.immersiveintelligence.mg_bunker.desc=Placing additional sandbags around the machinegun nest gives it additional armor and increases its durability.
+machineupgrade.immersiveintelligence.mg_bunker=Дополнительные укрепления
+machineupgrade.immersiveintelligence.mg_bunker.desc=Размещение дополнительных мешков с песком вокруг пулеметного гнезда придает ему дополнительную броню и увеличивает его долговечность.
 
 machineupgrade.immersiveintelligence.mortar=Миномёт
-machineupgrade.immersiveintelligence.mortar.desc=Миномёт provides indirect fire support on close range, the vertical firing angle and high shell caliber allow it to pierce trough roofs and decimate enemies from above
+machineupgrade.immersiveintelligence.mortar.desc=Миномет обеспечивает непрямую огневую поддержку с близкого расстояния, вертикальный угол обстрела и большой калибр снаряда позволяют ему пробивать крыши домов и уничтожать врагов сверху
 
 machineupgrade.immersiveintelligence.light_howitzer=Легкая гаубица
-machineupgrade.immersiveintelligence.light_howitzer.desc=Light Howitzer provides indirect fire support on medium range, its mobility allows for quick and precise barrage of enemy positions
+machineupgrade.immersiveintelligence.light_howitzer.desc=Легкая гаубица обеспечивает непрямую огневую поддержку на средней дистанции, ее мобильность позволяет быстро и точно обстреливать позиции противника
 
 machineupgrade.immersiveintelligence.tesla=Башня Теслы
-machineupgrade.immersiveintelligence.tesla.desc=The Tesla Tower uses high voltage to decimate enemies in its radius, it's especially effective against electronics
+machineupgrade.immersiveintelligence.tesla.desc=Башня Тесла использует высокое напряжение для уничтожения врагов в радиусе своего действия, она особенно эффективна против электроники
 
-machineupgrade.immersiveintelligence.core_filler=Projectile Filler
-machineupgrade.immersiveintelligence.core_filler.desc=Equipping the Projectile Workshop with an inserter allows precise filling of the projectiles with desired components.
+machineupgrade.immersiveintelligence.core_filler=Наполнитель сердечников
+machineupgrade.immersiveintelligence.core_filler.desc=Оснащение снарядной мастерской установочным устройством позволяет точно наполнять снаряды необходимыми компонентами.
 
-machineupgrade.immersiveintelligence.packer_fluid=Fluid Loader
-machineupgrade.immersiveintelligence.packer_fluid.desc=Installing a fluid container and some pipes allows to fill and drain fluids from containers. Due to safety reasons the packer can handle either items, fluids or energy.
+machineupgrade.immersiveintelligence.packer_fluid=Загрузчик жидкости
+machineupgrade.immersiveintelligence.packer_fluid.desc=Установка контейнера для жидкости и некоторых трубопроводов позволяет заполнять и сливать жидкости из контейнеров. Из соображений безопасности упаковщик может работать как с предметами, так и с жидкостями или энергией.
 
-machineupgrade.immersiveintelligence.packer_energy=Energy Loader
-machineupgrade.immersiveintelligence.packer_energy.desc=Installing a fluid container and some pipes allows to fill and drain fluids from containers. Due to safety reasons the packer can handle either items, fluids or energy.
+machineupgrade.immersiveintelligence.packer_energy=Загрузчик энергии
+machineupgrade.immersiveintelligence.packer_energy.desc=Установка контейнера для жидкости и некоторых трубопроводов позволяет заполнять и сливать жидкости из контейнеров. Из соображений безопасности упаковщик может работать как с предметами, так и с жидкостями или энергией.
 
-machineupgrade.immersiveintelligence.packer_railway=Railway Conversion
-machineupgrade.immersiveintelligence.packer_railway.desc=Replaces the Packer's conveyor belt with railway tracks, which allows loading and unloading minecarts.
+machineupgrade.immersiveintelligence.packer_railway=Переоборудование железных дорог
+machineupgrade.immersiveintelligence.packer_railway.desc=Заменяет конвейерную ленту упаковщика железнодорожными путями, что позволяет загружать и разгружать вагонетки.
 
-machineupgrade.immersiveintelligence.packer_naming=Naming Stamp
-machineupgrade.immersiveintelligence.packer_naming.desc=Allows the Packer to name the loaded containers, can use filters and data.
+machineupgrade.immersiveintelligence.packer_naming=Именной штамп
+machineupgrade.immersiveintelligence.packer_naming.desc=Позволяет упаковщику называть загруженные контейнеры, может использовать фильтры и данные.
 
 machineupgrade.immersiveintelligence.radio_locators=Радиолокаторы
 machineupgrade.immersiveintelligence.radio_locators.desc=Позволяет радару обнаруживать радиосигналы и вычислять точки их происхождения. Увеличивает количество энергии, требуемой для работы.
 
-machineupgrade.immersiveintelligence.rs_activation=Redstone Activation
-machineupgrade.immersiveintelligence.rs_activation.desc=Attaching a redstone wire connector and a pair of actuators allows opening the gate with a redstone signal.
+machineupgrade.immersiveintelligence.rs_activation=Редстоун активация
+machineupgrade.immersiveintelligence.rs_activation.desc=Подключение проводного разъема красного камня и пары приводов позволяет открывать ворота по сигналу красного камня.
 
 machineupgrade.immersiveintelligence.razor_wire=Колючая проволока
 machineupgrade.immersiveintelligence.razor_wire.desc=Прикрепляет колючую проволоку поверх ворот, нанося урон любому врагу, который осмелится попытаться перелезть через них.
@@ -1188,7 +1188,7 @@ desc.immersiveintelligence.printed_page.book=Несколько страниц, 
 desc.immersiveintelligence.printed_page.letter=Страница, упакованная в конверт для отправки кому-либо.
 
 desc.immersiveintelligence.punchtape.empty=Никакие переменные не записаны
-desc.immersiveintelligence.punchtape.written=Written
+desc.immersiveintelligence.punchtape.written=Записаны
 
 desc.immersiveintelligence.infrared_enabled=§4Инфракрасное§r Зрение Включено!
 desc.immersiveintelligence.infrared_disabled=§cИнфракрасное§r Зрение Выключено!
@@ -1261,11 +1261,12 @@ desc.immersiveintelligence.bullet_type.terrain_denial=Terrain Denial
 desc.immersiveintelligence.bullet_type.special=Спец. назначения
 
 desc.immersiveintelligence.bullet_core_type.softpoint=Полуоболочная пуля
-desc.immersiveintelligence.bullet_core_type.shaped=Shaped
-desc.immersiveintelligence.bullet_core_type.shaped_sabot=Shaped Fin-Stabilized
+desc.immersiveintelligence.bullet_core_type.shaped=Кумулятивный
+desc.immersiveintelligence.bullet_core_type.shaped_sabot=Оперённый кумулятивный
 desc.immersiveintelligence.bullet_core_type.piercing=Бронебойный
 desc.immersiveintelligence.bullet_core_type.piercing_sabot=Саботаж
 desc.immersiveintelligence.bullet_core_type.canister=Шрапнель
+#Последние можно перевести на кассетный, но у на Женевская конвенция
 desc.immersiveintelligence.bullet_core_type.cluster=Кластер
 
 desc.immersiveintelligence.bullet_fuse.contact=Контактный
@@ -1281,9 +1282,9 @@ desc.immersiveintelligence.bullets.fuse=%s Взрыватель
 desc.immersiveintelligence.bullets.mass=Масса: %s
 desc.immersiveintelligence.bullets.caliber=Калибр: %s б\Кал
 
-desc.immersiveintelligence.bullets.components=Components:
-desc.immersiveintelligence.bullets.ballistics=%s - Ballistics
-desc.immersiveintelligence.bullets.performance=Performance:
+desc.immersiveintelligence.bullets.components=Компоненты:
+desc.immersiveintelligence.bullets.ballistics=%s - Баллистика
+desc.immersiveintelligence.bullets.performance=Представление:
 desc.immersiveintelligence.bullets.damage_dealt=Нанесенный урон: %s
 desc.immersiveintelligence.bullets.standard_velocity=Стандартная скорость: %s б/т
 desc.immersiveintelligence.bullets.max_artillery_range=Максимальная артиллерийская дальность: %s блоков
@@ -1318,7 +1319,7 @@ potion.immersiveintelligence.infrared_vision=Инфракрасное зрени
 potion.immersiveintelligence.iron_will=Железная воля
 potion.immersiveintelligence.well_supplied=Хорошо снабженный
 potion.immersiveintelligence.concealed=Замаскированный
-potion.immersiveintelligence.exposed=Exposed
+potion.immersiveintelligence.exposed=Незащищенный
 potion.immersiveintelligence.medical_treatment=Медицинское лечение
 potion.immersiveintelligence.undergoing_repairs=Ремонт
 potion.immersiveintelligence.radiation=Радиация
@@ -1347,13 +1348,13 @@ info.immersiveintelligence.debugger_mode.1=Передатчик
 info.immersiveintelligence.debugger_mode.2=Приёмник
 
 info.immersiveintelligence.punchtape_reader_mode=Режим считывания перфоленты: %s
-info.immersiveintelligence.punchtape_reader_mode.0=Redstone Indifferent
-info.immersiveintelligence.punchtape_reader_mode.1=Packet on Redstone
-info.immersiveintelligence.punchtape_reader_mode.2=Redstone on Packet
+info.immersiveintelligence.punchtape_reader_mode.0=Красный камень - нет
+info.immersiveintelligence.punchtape_reader_mode.1=Шлёт пакет при редстоун сигнале
+info.immersiveintelligence.punchtape_reader_mode.2=При считывании выдаёт редстоун импульс
 
 info.immersiveintelligence.redstone_buffer_mode=Редстоуновый буферный режим: %s
-info.immersiveintelligence.redstone_buffer_mode.passtrough=Passtrough
-info.immersiveintelligence.redstone_buffer_mode.signal=On Signal
+info.immersiveintelligence.redstone_buffer_mode.passtrough=Постоянный
+info.immersiveintelligence.redstone_buffer_mode.signal=Импульс
 
 info.immersiveintelligence.tachometer_message.basic=Внутренний: скорость %s об/мин / крутящий момент %s Нм.
 info.immersiveintelligence.tachometer_message.advanced=Внутренний: скорость %s об/мин / крутящий момент %s Нм. Внешнее: скорость %s об/мин / крутящий момент %s Нм.
@@ -1416,9 +1417,9 @@ datasystem.immersiveintelligence.function.root=Извлечение корня
 datasystem.immersiveintelligence.function.max=Минимум
 datasystem.immersiveintelligence.function.min=Максимум
 datasystem.immersiveintelligence.function.sign=Знак
-datasystem.immersiveintelligence.function.ceil=Ceiling
-datasystem.immersiveintelligence.function.round=Round
-datasystem.immersiveintelligence.function.floor=Floor
+datasystem.immersiveintelligence.function.ceil=Округление в вверх
+datasystem.immersiveintelligence.function.round=Округление
+datasystem.immersiveintelligence.function.floor=Округление в низ
 datasystem.immersiveintelligence.function.sin=Синус
 datasystem.immersiveintelligence.function.cos=Косинус
 datasystem.immersiveintelligence.function.tan=Тангенс
@@ -1478,7 +1479,7 @@ datasystem.immersiveintelligence.function.set_nbt=Установить NBT те�
 datasystem.immersiveintelligence.function.get_itemstack=Взять число стака предмета
 datasystem.immersiveintelligence.function.get_item_id=Взять ID предмета
 datasystem.immersiveintelligence.function.can_stack_with=Можно складывать с
-datasystem.immersiveintelligence.function.matches_oredict=Соответствует oreDictionary
+datasystem.immersiveintelligence.function.matches_oredict=Соответствует Словарю руд 
 
 datasystem.immersiveintelligence.function.array_get=Взять
 datasystem.immersiveintelligence.function.array_set=Set
@@ -1501,8 +1502,8 @@ datasystem.immersiveintelligence.function.document_read_all_pages_string=Счи�
 datasystem.immersiveintelligence.function.document_get_author=Взять автора
 datasystem.immersiveintelligence.function.document_get_title=Взять название
 
-datasystem.immersiveintelligence.function.is_null=Is Null
-datasystem.immersiveintelligence.function.is_same_type=Is Same Type
+datasystem.immersiveintelligence.function.is_null=Равно нулю
+datasystem.immersiveintelligence.function.is_same_type=Является однотипным
 datasystem.immersiveintelligence.function.to_integer=Преобразовать в целое число
 datasystem.immersiveintelligence.function.to_float=Преобразовать в число с плавающей точкой
 datasystem.immersiveintelligence.function.to_string=Преобразовать в строку
@@ -1529,7 +1530,7 @@ datasystem.immersiveintelligence.datatype.fluidstack=Стак жидкости
 datasystem.immersiveintelligence.datatype.array=Массив
 datasystem.immersiveintelligence.datatype.map=Карта
 datasystem.immersiveintelligence.datatype.entity=Сущность
-datasystem.immersiveintelligence.datatype.encrypted=Encrypted
+datasystem.immersiveintelligence.datatype.encrypted=Зашифрованный
 
 datasystem.immersiveintelligence.datatype.boolean.true=Истина
 datasystem.immersiveintelligence.datatype.boolean.false=Ложь
@@ -1814,38 +1815,38 @@ ie.manual.entry.callback_returns=Returns:
 
 
 
-ie.manual.entry.filler.name=Filler
-ie.manual.entry.filler.subtext=Churning all the dusts
+ie.manual.entry.filler.name=Наполнитель
+ie.manual.entry.filler.subtext=Взбивая всю пыль
 ie.manual.entry.filler0=The filler is a device used to fill containers with dust. It's most important purpose is filling bullet casings with gunpowder. To form the filler, use a hammer on the middle conveyor block.
 ie.manual.entry.filler1=To operate the filler requires electricity, a container to fill and an appropriate amount of dust. When dust is placed into the input slot it is moved to the main tank, the total amount of dust stored there is shown in mB. The machine can store only one dust type at a time. Only way to remove dust from the machine, except filling containers is to break the machine.
 
 #Chemical Painter output variables
-ie.manual.entry.chemical_painter.vars_in.p.main=Output mode
+ie.manual.entry.chemical_painter.vars_in.p.main=Режим вывода
 #Chemical Painter callback variables
-ie.manual.entry.chemical_painter.vars_callback.get_color=Returns currently used color as a RGB integer
-ie.manual.entry.chemical_painter.vars_callback.get_color_hex=Returns currently used color as a hex string
-ie.manual.entry.chemical_painter.vars_callback.get_ink=Returns black ink amount
-ie.manual.entry.chemical_painter.vars_callback.get_ink_cyan=Returns cyan ink amount
-ie.manual.entry.chemical_painter.vars_callback.get_ink_yellow=Returns yellow ink amount
-ie.manual.entry.chemical_painter.vars_callback.get_ink_magenta=Returns magenta ink amount
-ie.manual.entry.chemical_painter.vars_callback.get_energy=Returns stored energy amount
+ie.manual.entry.chemical_painter.vars_callback.get_color=Возвращает используемый в данный момент цвет в виде целого числа RGB
+ie.manual.entry.chemical_painter.vars_callback.get_color_hex=Возвращает используемый в данный момент цвет в виде шестнадцатеричной строки
+ie.manual.entry.chemical_painter.vars_callback.get_ink=Возвращает количество черных чернил
+ie.manual.entry.chemical_painter.vars_callback.get_ink_cyan=Возвращает количество бирюзовых чернил
+ie.manual.entry.chemical_painter.vars_callback.get_ink_yellow=Возвращает количество желтых чернил
+ie.manual.entry.chemical_painter.vars_callback.get_ink_magenta=Возвращает количество пурпурных чернил
+ie.manual.entry.chemical_painter.vars_callback.get_energy=Возвращает значение накопленное количество энергии
 
 #Printing Press output variables
-ie.manual.entry.printing_press.vars_in.m.main=Output mode
+ie.manual.entry.printing_press.vars_in.m.main=Режим вывода
 ie.manual.entry.printing_press.vars_in.m.sub=Possible values: "text", "code", "blueprint"
-ie.manual.entry.printing_press.vars_in.a.main=Amount of copies
+ie.manual.entry.printing_press.vars_in.a.main=Количество копий
 ie.manual.entry.printing_press.vars_in.a.sub=
 ie.manual.entry.printing_press.vars_in.t.main=Text to print
 ie.manual.entry.printing_press.vars_in.t.sub=Available only when using the "text" mode
 #Printing Press callback variables
-ie.manual.entry.printing_press.vars_callback.get_ink=Returns black ink amount
-ie.manual.entry.printing_press.vars_callback.get_ink_cyan=Returns cyan ink amount
-ie.manual.entry.printing_press.vars_callback.get_ink_yellow=Returns yellow ink amount
-ie.manual.entry.printing_press.vars_callback.get_ink_magenta=Returns magenta ink amount
-ie.manual.entry.printing_press.vars_callback.get_energy=Returns stored energy amount
+ie.manual.entry.printing_press.vars_callback.get_ink=Возвращает количество черных чернил
+ie.manual.entry.printing_press.vars_callback.get_ink_cyan=Возвращает количество бирюзовых чернил
+ie.manual.entry.printing_press.vars_callback.get_ink_yellow=Возвращает количество желтых чернил
+ie.manual.entry.printing_press.vars_callback.get_ink_magenta=Возвращает количество пурпурных чернил
+ie.manual.entry.printing_press.vars_callback.get_energy=Возвращает значение накопленное количество энергии
 ie.manual.entry.printing_press.vars_callback.get_paper=Returns blank paper pages amount
 
-ie.manual.entry.inserters_basic.vars_in.c.main=Command
+ie.manual.entry.inserters_basic.vars_in.c.main=Комманды
 ie.manual.entry.inserters_basic.vars_in.c.sub=Possible values: "add", "remove", "clear"
 ie.manual.entry.inserters_basic.vars_in.a.main=Action (Used by "add", optional for "remove")
 ie.manual.entry.inserters_basic.vars_in.a.sub=Possible values: "item", "place_block", "from_minecart", "into_minecart"
@@ -1998,8 +1999,8 @@ ie.manual.entry.light_engineer_armor_upgrade_gasmask=Противогаз - Ул
 ie.manual.entry.light_engineer_armor_upgrade_infiltrator_gear=The Infiltrator's Headgear is an advanced tool made for espionage. The headgear allows magnifying the image and emits infrared light, allowing night vision. It can be combined with the Technician's Headgear to create the Engineer's Headgear.
 ie.manual.entry.light_engineer_armor_upgrade_technician_gear=The Technician's Headgear is a useful tool for managing factories. It displays information such as energy contained in machines, rotary power statistics, stored fluids and data. It can be combined with the Infiltrator's Headgear to create the Engineer's Headgear.
 ie.manual.entry.light_engineer_armor_upgrade_engineer_gear=The Engineer's Headgear combines the effects of Infiltrator's and Technician's headgears into one device. As a result, the power consumption is increased, but so is the amount of features.<br>Only thing it lacks now is a can holder.
-ie.manual.entry.light_engineer_armor_upgrade_steel_armor_plates=The Steel Armor Plates increase the armor thickness and durability and provide an ability to deflect arrows and other light projectiles. About time to show off the world that industrial progress already outmatched the obsolete bows and arrows! Due to their weight only 3 plates can be installed per one armor piece.
-ie.manual.entry.light_engineer_armor_upgrade_composite_armor_plates=Composite Armor Plates are much more durable than Steel Ones and due to their light weight, a higher thickness can be achieved. In addition, hitting the armor with a melee weapon will damage it severely. Only 3 plates can be installed per one armor piece.
+ie.manual.entry.light_engineer_armor_upgrade_steel_armor_plates=Стальные броневые пластины увеличивают толщину и прочность брони, а также обеспечивают способность отражать стрелы и другие легкие снаряды. Самое время продемонстрировать миру, что промышленный прогресс уже превзошел устаревшие луки и стрелы! Из-за их веса на одно изделие брони можно установить только 3 пластины.
+ie.manual.entry.light_engineer_armor_upgrade_composite_armor_plates=Композитные броневые пластины намного прочнее стальных, а благодаря их небольшому весу можно добиться большей толщины. Кроме того, попадание по броне оружием ближнего боя может привести к серьезным повреждениям. На один элемент брони можно установить только 3 пластины.
 ie.manual.entry.light_engineer_armor_upgrade_hazmat_coating=Химзащита - это дополнительный внутренний защитный слой, защищающий от радиации и кислот. Самое время прогуляться по ядерным пустошам.
 ie.manual.entry.light_engineer_armor_upgrade_heat_resistant_coating=The Heat Resistance Coating layer allows to swim in hot liquids which would otherwise incinerate the wearer. Only works when worn with reinforced boots due to overlapping protective layers and heat distribution.
 ie.manual.entry.light_engineer_armor_upgrade_anti_static_mesh=The Anti-Static Mesh gives the user immunity against electrical damage and interferes with the proximity fuses targeting, disrupting them. However, due to its construction it will not work underwater, causing greater harm to the wearer when attacked with electric or electromagnetic weapons.
