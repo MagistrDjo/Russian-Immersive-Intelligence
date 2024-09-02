@@ -1,4 +1,4 @@
-//Переводил на русский "Королевский кот". Передаю привет вискасу и такпкам. МЯУ!
+﻿//Переводил на русский "Королевский кот". Передаю привет вискасу и такпкам. МЯУ!
 # До версии 0.3.1 переводил Magistr Djo  (почти)
 //Предметы
 itemGroup.immersiveintelligence=Иммерсивный Интеллект
@@ -67,21 +67,21 @@ item.immersiveintelligence.binoculars.infrared_binoculars.name=Инфракра�
 
 item.immersiveintelligence.assembly_scheme.name=Сборочная схема
 
-item.immersiveintelligence.press_mold.howitzer.name=Пресс-форма для металла: Артерилийская гильза
-item.immersiveintelligence.press_mold.medium_howitzer.name=Пресс-форма для металла: Гильза среднего артиллерийского снаряда
-item.immersiveintelligence.press_mold.light_howitzer.name=Пресс-форма для металла: Гильза легкого артиллерийского снаряда
-item.immersiveintelligence.press_mold.mortar.name=Пресс-форма для металла: Корпус мины миномёта
-item.immersiveintelligence.press_mold.light_gun.name=Пресс-форма для металла: Гильза для light gun 4б/кал
+item.immersiveintelligence.press_mold.howitzer.name=Пресс-форма для металла: Гильза тяжёлой артиллерии
+item.immersiveintelligence.press_mold.medium_howitzer.name=Пресс-форма для металла: Гильза средней артиллерии
+item.immersiveintelligence.press_mold.light_howitzer.name=Пресс-форма для металла: Гильза легкой артиллерии
+item.immersiveintelligence.press_mold.mortar.name=Пресс-форма для металла: Корпус мниномётной мины
+item.immersiveintelligence.press_mold.light_gun.name=Пресс-форма для металла: Гильза лёгкой пушки
 item.immersiveintelligence.press_mold.autocannon.name=Пресс-форма для металла: Гильза автоматической пушки
-item.immersiveintelligence.press_mold.shotgun.name=Пресс-форма для металла: Гильза для дробовика
-item.immersiveintelligence.press_mold.machinegun.name=Пресс-форма для металла: Винтовочная гильза
-item.immersiveintelligence.press_mold.assault_rifle.name=Пресс-форма для металла: Промежуточная гильза
+item.immersiveintelligence.press_mold.shotgun.name=Пресс-форма для металла: Гильза ружейного патрона
+item.immersiveintelligence.press_mold.machinegun.name=Пресс-форма для металла: Гильза винтовочного патрона
+item.immersiveintelligence.press_mold.assault_rifle.name=Пресс-форма для металла: Гильза промежуточного патрона
 item.immersiveintelligence.press_mold.submachinegun.name=Пресс-форма для металла: Пистолетная гильза
 item.immersiveintelligence.press_mold.naval_mine.name=Пресс-форма для металла: Морская мина
-item.immersiveintelligence.press_mold.tripmine.name=Пресс-форма для металла: Растяжка
+item.immersiveintelligence.press_mold.tripmine.name=Пресс-форма для металла: Мина-растяжка
 item.immersiveintelligence.press_mold.tellermine.name=Пресс-форма для металла: Наземная мина
 
-item.immersiveintelligence.vulcanizer_mold.belt.name=Форма вулканизации: Пояс
+item.immersiveintelligence.vulcanizer_mold.belt.name=Форма вулканизации: Лист
 item.immersiveintelligence.vulcanizer_mold.tire.name=Форма вулканизации: Шина
 
 item.immersiveintelligence.material_ingot.platinum.name=Платиновый слиток
@@ -104,11 +104,11 @@ item.immersiveintelligence.material_dust.zinc.name=Цинковая пыль
 item.immersiveintelligence.material_dust.tungsten.name=Вольфрамовая пыль
 item.immersiveintelligence.material_dust.brass.name=Латунная пыль
 item.immersiveintelligence.material_dust.advanced_electronic_alloy.name=Пыль продвинутого электронного сплава
-item.immersiveintelligence.material_dust.silicon.name=Кремнивая пыль
+item.immersiveintelligence.material_dust.silicon.name=Кремниевая пыль
 item.immersiveintelligence.material_dust.fluorite.name=Флюоритовая пыль
-item.immersiveintelligence.material_dust.quartz.name=Кварцивая пыль
-item.immersiveintelligence.material_dust.quartz_dirty.name=Грязная Кварцевая пыль
-item.immersiveintelligence.material_dust.phosphorus.name=Фосфоровая пыль
+item.immersiveintelligence.material_dust.quartz.name=Кварцевая пыль
+item.immersiveintelligence.material_dust.quartz_dirty.name=Грязная кварцевая пыль
+item.immersiveintelligence.material_dust.phosphorus.name=Фосфорный порошок
 item.immersiveintelligence.material_dust.duraluminium.name=Дюралюминивая пыль
 
 item.immersiveintelligence.material_plate.platinum.name=Платиновая пластина
@@ -116,7 +116,7 @@ item.immersiveintelligence.material_plate.zinc.name=Цинковая пласт�
 item.immersiveintelligence.material_plate.tungsten.name=Вольфрамовая пластина
 item.immersiveintelligence.material_plate.brass.name=Латунная пластина
 item.immersiveintelligence.material_plate.advanced_electronic_alloy.name=Пластина продвинутого электронного сплава
-item.immersiveintelligence.material_plate.silicon.name=Кремнивая пластина
+item.immersiveintelligence.material_plate.silicon.name=Кремниевая пластина
 item.immersiveintelligence.material_plate.rubber_raw.name=Лист каучука
 item.immersiveintelligence.material_plate.duraluminium.name=Дюралюминивая пластина
 
@@ -132,17 +132,17 @@ item.immersiveintelligence.material_wire.tungsten.name=Вольфрамовый 
 item.immersiveintelligence.material_wire.brass.name=Латунный провод
 
 item.immersiveintelligence.material_gem.fluorite.name=Флюорит
-item.immersiveintelligence.material_gem.phosphorus.name=Глауконит
+item.immersiveintelligence.material_gem.phosphorus.name=Фосфор
 
-item.immersiveintelligence.material_boule.silicon.name=Кремнивая буля
+item.immersiveintelligence.material_boule.silicon.name=Кремниевая буля
 
 item.immersiveintelligence.material_spring.brass.name=Латунная пружина
 item.immersiveintelligence.material_spring.iron.name=Железная пружина
 item.immersiveintelligence.material_spring.steel.name=Стальная пружина
 
-item.immersiveintelligence.material.dust_rdx.name=Гексогеновая пыль
-item.immersiveintelligence.material.dust_hmx.name=Октогеновая пыль
-item.immersiveintelligence.material.white_phosphorus.name=Белый Фосфор
+item.immersiveintelligence.material.dust_rdx.name=Гексогеновая пыль (RDX)
+item.immersiveintelligence.material.dust_hmx.name=Октогеновая пыль (HMX)
+item.immersiveintelligence.material.white_phosphorus.name=Белый фосфор
 
 item.immersiveintelligence.material.bullet_core_steel.name=Стальной сердечник пули
 item.immersiveintelligence.material.bullet_core_brass.name=Латунный сердечник пули
@@ -150,17 +150,17 @@ item.immersiveintelligence.material.bullet_core_uranium.name=Урановый с
 item.immersiveintelligence.material.bullet_core_lead.name=Свинцовый сердечник пули
 item.immersiveintelligence.material.bullet_core_tungsten.name=Вольфрамовый сердечник пули
 
-item.immersiveintelligence.material.dust_salt.name=Соляная пыль
+item.immersiveintelligence.material.dust_salt.name=Соль
 item.immersiveintelligence.material.dust_wood.name=Опилки
 item.immersiveintelligence.material.pulp_wood.name=Целлюлоза
 item.immersiveintelligence.material.pulp_wood_treated.name=Обработанная целлюлоза
 item.immersiveintelligence.material.dust_hexamine.name=Уротропиновая пыль
-item.immersiveintelligence.material.dust_formaldehyde.name=Формальдегитовая пыль
-item.immersiveintelligence.material.rubber_compound.name=Вулканизирующий компонент
+item.immersiveintelligence.material.dust_formaldehyde.name=Формальдегидовая пыль
+item.immersiveintelligence.material.rubber_compound.name=Вулканизирующий состав
 
 item.immersiveintelligence.material.artificial_leather.name=Искусственная кожа
 item.immersiveintelligence.material.natural_rubber.name=Каучук
-item.immersiveintelligence.material.rubber_belt.name=Резиновый пояс
+item.immersiveintelligence.material.rubber_belt.name=Резиновый лист
 item.immersiveintelligence.material.rubber_tire.name=Резиновая шина
 
 item.immersiveintelligence.circuit_functional.arithmetic.name=Арифметическая плата
@@ -180,35 +180,35 @@ item.immersiveintelligence.circuit_functional.vector_arithmetic.name=Векто�
 item.immersiveintelligence.circuit_functional.cryptographer.name=Криптографическая плата
 
 item.immersiveintelligence.minecart.wooden_crate.name=Вагонетка с деревянным ящиком
-item.immersiveintelligence.minecart.reinforced_crate.name=Вагонетка с защищённым ящиком
+item.immersiveintelligence.minecart.reinforced_crate.name=Вагонетка с усиленным ящиком
 item.immersiveintelligence.minecart.steel_crate.name=Вагонетка со стальным ящиком
 item.immersiveintelligence.minecart.wooden_barrel.name=Вагонетка с деревянной бочкой
 item.immersiveintelligence.minecart.metal_barrel.name=Вагонетка с металлической бочкой
 item.immersiveintelligence.minecart.capacitor_lv.name=Вагонетка с низковольтовым конденсатором
-item.immersiveintelligence.minecart.capacitor_mv.name=Вагонетка с средневольтвым конденсатором
+item.immersiveintelligence.minecart.capacitor_mv.name=Вагонетка со средневольтовым конденсатором
 item.immersiveintelligence.minecart.capacitor_hv.name=Вагонетка с высоковольтвым конденсатором
-item.immersiveintelligence.minecart.capacitor_creative.name=Вагонетка с креативным конденсатором
+item.immersiveintelligence.minecart.capacitor_creative.name=Вагонетка с творческим конденсатором
 #Immersive Technology Compat   ещё вагонетки
-item.immersiveintelligence.minecart.crate_creative.name=Вагонетка с "Творческий ящик хранения"
-item.immersiveintelligence.minecart.barrel_creative.name=Вагонетка с креативной бочкой
-item.immersiveintelligence.minecart.steel_barrel.name=Вагонетка с стальной бочкой
+item.immersiveintelligence.minecart.crate_creative.name=Вагонетка с творческим ящиком
+item.immersiveintelligence.minecart.barrel_creative.name=Вагонетка с творческой бочкой
+item.immersiveintelligence.minecart.steel_barrel.name=Вагонетка со стальной бочкой
 item.immersiveintelligence.minecart.open_barrel.name=Вагонетка с открытой металлической бочкой
 
-item.immersiveintelligence.light_engineer_armor_helmet.name=Легкий шлем инженера
-item.immersiveintelligence.light_engineer_armor_chestplate.name=Легкий нагрудник инженера
-item.immersiveintelligence.light_engineer_armor_leggings.name=Легкий штаны инженера
-item.immersiveintelligence.light_engineer_armor_boots.name=Легкий ботинки инженера
+item.immersiveintelligence.light_engineer_armor_helmet.name=Шлем лёгкой брони инженера
+item.immersiveintelligence.light_engineer_armor_chestplate.name=Нагрудник лёгкой брони инженера
+item.immersiveintelligence.light_engineer_armor_leggings.name=Штаны лёгкой брони инженера
+item.immersiveintelligence.light_engineer_armor_boots.name=Ботинки лёгкой брони инженера
 item.immersiveintelligence.advanced_powerpack.name=Улучшенный конденсаторный рюкзак
 
 item.immersiveintelligence.lighter.name=Зажигалка инженера
-item.immersiveintelligence.measuring_cup.name=Мерный стакан инжинера
+item.immersiveintelligence.measuring_cup.name=Мерный стакан инженера
 item.immersiveintelligence.electric_hammer.name=Электрический молоток инженера
 item.immersiveintelligence.electric_wirecutter.name=Электрические кусачки инженера
-item.immersiveintelligence.electric_multitool.name=Электрический мультитул инженера
+item.immersiveintelligence.electric_multitool.name=Электрический мультитул инженерам
 item.immersiveintelligence.radio_configurator.basic.name=Базовый радиотюнер
 item.immersiveintelligence.radio_configurator.advanced.name=Продвинутый радиотюнер
 item.immersiveintelligence.trench_shovel.name=Сапёрная лопатка
-item.immersiveintelligence.tripod_periscope.name=Перископ
+item.immersiveintelligence.tripod_periscope.name=Перескоп
 item.immersiveintelligence.mine_detector.name=Миноискатель
 item.immersiveintelligence.mortar.name=Миномёт
 item.immersiveintelligence.submachinegun.name=Пистолет-пулемёт
@@ -216,7 +216,7 @@ item.immersiveintelligence.assault_rifle.name=Автомат
 item.immersiveintelligence.machinegun.name=Пулемёт
 item.immersiveintelligence.autorevolver.name=Автоматический револьвер
 item.immersiveintelligence.rifle.name=Винтовка
-item.immersiveintelligence.rifle_handmade.name=Ручная винтовка
+item.immersiveintelligence.rifle_handmade.name=Самодельная винтовка
 
 
 //Сверлильные Головки
@@ -225,7 +225,7 @@ item.immersiveintelligence.drillhead.iron_diamond_tip.name=Покрытая ал
 item.immersiveintelligence.drillhead.steel_diamond_tip.name=Покрытая алмазной крошкой стальная сверлильная соловка
 item.immersiveintelligence.drillhead.tungsten_diamond_tip.name=Покрытая алмазной крошкой вольфрамовая сверлильная головка
 
-item.immersiveintelligence.weapon_upgrade.water_cooling.name=Охлаждаемый водой ствол
+item.immersiveintelligence.weapon_upgrade.water_cooling.name=Водяное охлаждение
 item.immersiveintelligence.weapon_upgrade.heavy_barrel.name=Тяжёлый ствол
 item.immersiveintelligence.weapon_upgrade.second_magazine.name=Второй магазин
 item.immersiveintelligence.weapon_upgrade.belt_fed_loader.name=Ленточный магазин
@@ -236,9 +236,9 @@ item.immersiveintelligence.weapon_upgrade.infrared_scope.name=Инфракрас
 item.immersiveintelligence.weapon_upgrade.shield.name=Прикрепляемые щиты
 item.immersiveintelligence.weapon_upgrade.tripod.name=Тринога
 
-item.immersiveintelligence.weapon_upgrade.sturdy_barrel.name=Прочный ствол
+item.immersiveintelligence.weapon_upgrade.sturdy_barrel.name=Усиленный ствол
 item.immersiveintelligence.weapon_upgrade.suppressor.name=Глушитель
-item.immersiveintelligence.weapon_upgrade.bottom_loading.name=Барабанный разьём
+item.immersiveintelligence.weapon_upgrade.bottom_loading.name=Разьём для барабана
 item.immersiveintelligence.weapon_upgrade.folding_stock.name=Складной приклад
 
 item.immersiveintelligence.weapon_upgrade.heavy_springbox.name=Тяжёлый пружинная коробка
@@ -247,11 +247,11 @@ item.immersiveintelligence.weapon_upgrade.radio_marker.name=Радиомарке
 item.immersiveintelligence.weapon_upgrade.rifle_grenade_launcher.name=Подствольный гранотомёт
 item.immersiveintelligence.weapon_upgrade.stereoscopic_rangefinder.name=Стереоскопический дальномер
 item.immersiveintelligence.weapon_upgrade.gyroscopic_stabilizer.name=Гироскопический стабилизатор
-item.immersiveintelligence.weapon_upgrade.electric_firing_motor.name=Электрический приводной двигатель
+item.immersiveintelligence.weapon_upgrade.electric_firing_motor.name=Электрический привод
 item.immersiveintelligence.weapon_upgrade.railgun_assisted_chamber.name=Рельсотронный ускоритель
 
 item.immersiveintelligence.weapon_upgrade.semi_automatic.name=Полуавтоматический ударно-спусковой механизм
-item.immersiveintelligence.weapon_upgrade.extended_barrel.name=Удлиненный ствол
+item.immersiveintelligence.weapon_upgrade.extended_barrel.name=Удлинённый ствол
 
 item.immersiveintelligence.armor_upgrade.gasmask.name=Противогаз
 item.immersiveintelligence.armor_upgrade.infiltrator_gear.name=Инфракрасные очки
@@ -259,30 +259,30 @@ item.immersiveintelligence.armor_upgrade.technician_gear.name=Техническ
 item.immersiveintelligence.armor_upgrade.engineer_gear.name=Инженерные очки
 item.immersiveintelligence.armor_upgrade.steel_armor_plates.name=Стальная бронеплита
 item.immersiveintelligence.armor_upgrade.composite_armor_plates.name=Композитная бронеплита
-item.immersiveintelligence.armor_upgrade.hazmat_coating.name=Химзащита
-item.immersiveintelligence.armor_upgrade.heat_resistant_coating.name=Огнезащита
+item.immersiveintelligence.armor_upgrade.hazmat_coating.name=Защитное покрытие
+item.immersiveintelligence.armor_upgrade.heat_resistant_coating.name=Огнестойкое покрытие
 item.immersiveintelligence.armor_upgrade.anti_static_mesh.name=Антистатическая сетка
-item.immersiveintelligence.armor_upgrade.camouflage_mesh.name=Камуфляж
+item.immersiveintelligence.armor_upgrade.camouflage_mesh.name=Маскировочная сетка
 item.immersiveintelligence.armor_upgrade.infrared_absorbing_mesh.name=Стелс-сетка
 item.immersiveintelligence.armor_upgrade.scuba_tank.name=Баллон для подводного плавания
 item.immersiveintelligence.armor_upgrade.helipack.name=Вертолетный ранец
 item.immersiveintelligence.armor_upgrade.exoskeleton.name=Экзоскелет
-item.immersiveintelligence.armor_upgrade.boot_reinforcement.name=Огнезащита ботинок
-item.immersiveintelligence.armor_upgrade.snow_rackets.name=Ледоходы
+item.immersiveintelligence.armor_upgrade.boot_reinforcement.name=Усиление ботинок
+item.immersiveintelligence.armor_upgrade.snow_rackets.name=Снегоступы
 item.immersiveintelligence.armor_upgrade.flippers.name=Ласты
 item.immersiveintelligence.armor_upgrade.internal_springs.name=Внутренние пружины
 
 
 #Трассер почему-то сломался
-item.immersiveintelligence.tracer_powder.name=Трассирующая пыль
+item.immersiveintelligence.tracer_powder.name=Трассирующий состав
 
 
-item.immersiveintelligence.tracer_powder.flare_powder.name=Осветительная пыль
+item.immersiveintelligence.tracer_powder.flare_powder.name=Осветительный состав
 
 item.immersiveintelligence.skycrate_mount.mechanical.name=Фуникулёр
 item.immersiveintelligence.skycrate_mount.electric.name=Электрический фуникулёр
 
-desc.immersiveintelligence.electric_hammer=Поворачивает блоки, переключает порты машины, формирует мультиблоки.
+desc.immersiveintelligence.electric_hammer=Поворачивает блоки, переключает порты машин, формирует мультиблоки.
 desc.immersiveintelligence.electric_wirecutter=Режет провода и моторные ремни, работает как ножницы.
 desc.immersiveintelligence.wrench=Устанавливает обновления на совместимые мультиблоки.
 desc.immersiveintelligence.trench_shovel=Быстрее закапывает мины, укрепляет блоки.
@@ -299,13 +299,13 @@ desc.immersiveintelligence.toolupgrade.item.assault_rifle=Автомат
 desc.immersiveintelligence.toolupgrade.item.autorevolver=Автоматический револьвер
 desc.immersiveintelligence.toolupgrade.item.rifle=Винтовка
 
-desc.immersiveintelligence.filled_casing=Наполненный порохом
+desc.immersiveintelligence.filled_casing=Наполнено порохом
 desc.immersiveintelligence.explosives_programmed=Запрограммирован с помощью пакета данных
 
 desc.immersiveintelligence.toolupgrade.item.light_engineer_helmet=Легкий шлем инженера
 desc.immersiveintelligence.toolupgrade.item.light_engineer_chestplate=Легкий нагрудник инженера
-desc.immersiveintelligence.toolupgrade.item.light_engineer_leggings=Легкий штаны инженера
-desc.immersiveintelligence.toolupgrade.item.light_engineer_boots=Легкий ботинки инженера
+desc.immersiveintelligence.toolupgrade.item.light_engineer_leggings=Легкие штаны инженера
+desc.immersiveintelligence.toolupgrade.item.light_engineer_boots=Легкие ботинки инженера
 
 desc.immersiveintelligence.toolupgrade.water_cooling=Использует воду, чтобы охладить Пулемёт. Увеличивает максимальное кол-во тепла, которое ПМ может принять.
 desc.immersiveintelligence.toolupgrade.heavy_barrel=Значительно увеличивает скорострельность, имеет более высокую отдачу и быстрее перегревается.
@@ -344,7 +344,7 @@ desc.immersiveintelligence.toolupgrade.composite_armor_plates=Значитель
 desc.immersiveintelligence.toolupgrade.hazmat_coating=Делает броню устойчивой к радиации и коррозии.
 desc.immersiveintelligence.toolupgrade.heat_resistant_coating=В сочетании с усиленными ботинками позволяет плавать в горячих жидкостях.
 desc.immersiveintelligence.toolupgrade.anti_static_mesh=Защищает пользователя от поражения электрическим током и не позволяет использовать бесконтактные предохранители. Очень чувствителен к урону электрическим током под водой.
-desc.immersiveintelligence.toolupgrade.camouflage_mesh=Делает владельца невидимым, когда он крадется сквозь листву (навсегда из-за бага). Чувствителен к огню.
+desc.immersiveintelligence.toolupgrade.camouflage_mesh=Делает владельца невидимым, когда он крадется сквозь листву. Чувствителен к огню.
 desc.immersiveintelligence.toolupgrade.infrared_absorbing_mesh=Делает пользователя невидимым для инфракрасных устройств. Чувствителен к электромагнитному излучению.
 desc.immersiveintelligence.toolupgrade.scuba_tank=Может быть заполнен кислородом для дыхания под водой. Для работы требуется противогаз.
 desc.immersiveintelligence.toolupgrade.helipack=Обеспечивает медленный, но стабильный полет. Требуется бензин.
@@ -356,7 +356,7 @@ desc.immersiveintelligence.toolupgrade.internal_springs=Защищает пол�
 
 item.immersiveintelligence.data_wire.name=Катушка кабеля данных
 
-item.immersiveintelligence.trip_wire.name=Проволка растяжки
+item.immersiveintelligence.trip_wire.name=Проволока мины-растяжки
 
 item.immersiveintelligence.small_wirecoil.data.name=Малая катушка кабеля данных
 item.immersiveintelligence.small_wirecoil.redstone.name=Малая катушка редстоун-кабеля
@@ -383,37 +383,37 @@ item.immersiveintelligence.sawblade.steel.name=Стальное лезвие п�
 item.immersiveintelligence.sawblade.tungsten.name=Вольфрамовое лезвие пилы
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //bCal - Блок-Калибр (1/16 Блока = 1 bCal)
-item.immersiveintelligence.ammo_casing.artillery_8bcal.name=Корпус артириллейского снаряда 8-б\Кал
-item.immersiveintelligence.artillery_8bCal.core.name=Заряд артириллейского снаряда 8-б\Кал
-item.immersiveintelligence.artillery_8bCal.bullet.name=Артириллейский снаряд 8-б\Кал
+item.immersiveintelligence.ammo_casing.artillery_8bcal.name=Гильза артиллерийского снаряда 8-б\Кал
+item.immersiveintelligence.artillery_8bCal.core.name=Заряд артиллерийского снаряда 8-б\Кал
+item.immersiveintelligence.artillery_8bCal.bullet.name=Артиллерийский снаряд 8-б\Кал
 
-item.immersiveintelligence.ammo_casing.medium_artillery_6bcal.name=Корпус среднего артириллейского снаряда 6-б\Кал
-item.immersiveintelligence.artillery_6bcal_long.core.name=Заряд среднего артириллейского снаряда 6-б\Кал
-item.immersiveintelligence.artillery_6bcal_long.bullet.name=Средний артириллейского снаряд 6-б\Кал
+item.immersiveintelligence.ammo_casing.medium_artillery_6bcal.name=Гильза среднего артириллейского снаряда 6-б\Кал
+item.immersiveintelligence.artillery_6bcal_long.core.name=Заряд длинного артириллейского снаряда 6-б\Кал
+item.immersiveintelligence.artillery_6bcal_long.bullet.name=Длинный артириллейский снаряд 6-б\Кал
 
-item.immersiveintelligence.ammo_casing.mortar_6bcal.name=Гильза 6-б\Кал Мины
-item.immersiveintelligence.mortar_6bCal.core.name=Заряд 6-б\Кал Мины
-item.immersiveintelligence.mortar_6bCal.bullet.name=6-б\Кал Мина
+item.immersiveintelligence.ammo_casing.mortar_6bcal.name=Корпус миномётной мины 6-б\Кал
+item.immersiveintelligence.mortar_6bCal.core.name=Заряд миномётной мины 6-б\Кал
+item.immersiveintelligence.mortar_6bCal.bullet.name=Миномётная мина 6-б\Кал
 
-item.immersiveintelligence.ammo_casing.light_artillery_6bcal.name=Корпус легкого артириллейского снаряда 6-б\Кал
-item.immersiveintelligence.artillery_6bCal.core.name=Заряд легкого артириллейского снаряда 6-б\Кал
-item.immersiveintelligence.artillery_6bCal.bullet.name=Легкий артириллейского снаряд 6-б\Кал
+item.immersiveintelligence.ammo_casing.light_artillery_6bcal.name=Гильза легкого артиллерийского снаряда 6-б\Кал
+item.immersiveintelligence.artillery_6bCal.core.name=Заряд легкого артиллерийского снаряда 6-б\Кал
+item.immersiveintelligence.artillery_6bCal.bullet.name=Легкий артиллерийский снаряд 6-б\Кал
 
-item.immersiveintelligence.ammo_casing.light_gun_4bcal.name=Light Gun Shell Casing
-item.immersiveintelligence.gun_4bcal.core.name=Light Gun Shell Core
-item.immersiveintelligence.gun_4bcal.bullet.name=Light Gun Shell
+item.immersiveintelligence.ammo_casing.light_gun_4bcal.name=Гильза лёгкой пушки 4-б\Кал
+item.immersiveintelligence.gun_4bcal.core.name=Заряд лёгкой пушки 4-б\Кал
+item.immersiveintelligence.gun_4bcal.bullet.name=Снаряд лёгкой пушки 4-б\Кал
 
-item.immersiveintelligence.ammo_casing.rocket_6bcal.name=Оболочка ракеты
-item.immersiveintelligence.rocket_6bcal.core.name=Заряд ракеты
-item.immersiveintelligence.rocket_6bcal.bullet.name=Ракета
+item.immersiveintelligence.ammo_casing.rocket_6bcal.name=Корпус ракеты 
+item.immersiveintelligence.rocket_6bcal.core.name=Заряд ракеты 
+item.immersiveintelligence.rocket_6bcal.bullet.name=Ракета 
 
-item.immersiveintelligence.ammo_casing.heavy_rocket_10bcal.name=Оболочка тяжёлой ракеты
-item.immersiveintelligence.rocket_10bcal.core.name=Заряд тяжёлой ракеты
-item.immersiveintelligence.rocket_10bcal.bullet.name=Тяжёлая ракета
+item.immersiveintelligence.ammo_casing.heavy_rocket_10bcal.name=Корпус тяжёлой ракеты 
+item.immersiveintelligence.rocket_10bcal.core.name=Заряд тяжёлой ракеты 
+item.immersiveintelligence.rocket_10bcal.bullet.name=Тяжёлая ракета 
 
-item.immersiveintelligence.ammo_casing.guided_missile_6bcal.name=Корпус ракеты проводного наведения
-item.immersiveintelligence.missile_guided_6bcal.core.name=Заряд ракеты проводного наведения
-item.immersiveintelligence.missile_guided_6bcal.bullet.name=Ракета проводного наведения
+item.immersiveintelligence.ammo_casing.guided_missile_6bcal.name=Корпус ракеты проводного наведения 
+item.immersiveintelligence.missile_guided_6bcal.core.name=Заряд ракеты проводного наведения 
+item.immersiveintelligence.missile_guided_6bcal.bullet.name=Ракета проводного наведения 
 
 item.immersiveintelligence.ammo_casing.mg_2bcal.name=Гильза винтовочного патрона
 item.immersiveintelligence.mg_2bCal.core.name=Сердечник винтовочного патрона
@@ -423,28 +423,28 @@ item.immersiveintelligence.ammo_casing.stg_1bcal.name=Гильза промеж�
 item.immersiveintelligence.stg_1bCal.core.name=Сердечник промежуточнного патрона
 item.immersiveintelligence.stg_1bCal.bullet.name=Промежуточный патрон 1-б\Кал
 
-item.immersiveintelligence.ammo_casing.smg_1bcal.name=Гильза пистолетнного патрона
-item.immersiveintelligence.smg_1bCal.core.name=Сердечник пистолетнного патрона
+item.immersiveintelligence.ammo_casing.smg_1bcal.name=Гильза пистолетного патрона
+item.immersiveintelligence.smg_1bCal.core.name=Сердечник пистолетного патрона
 item.immersiveintelligence.smg_1bCal.bullet.name=Пистолетный патрон 1-б\Кал
 
 item.immersiveintelligence.revolver_1bCal.core.name=Гильза револьвера
 item.immersiveintelligence.bullet.revolver_1bCal.name=Револьверный патрон 1-б\Кал
 
-item.immersiveintelligence.ammo_casing.autocannon_3bcal.name=Гильза 3 б\Кал
-item.immersiveintelligence.autocannon_3bCal.core.name=Сердечник 3 б\Кал
-item.immersiveintelligence.autocannon_3bCal.bullet.name=Снаряд 3 б\Кал
+item.immersiveintelligence.ammo_casing.autocannon_3bcal.name=Гильза автопушки 3-б\Кал
+item.immersiveintelligence.autocannon_3bCal.core.name=Сердечник автопушки 3-б\Кал
+item.immersiveintelligence.autocannon_3bCal.bullet.name=Снаряд автопушки 3-б\Кал
 
-item.immersiveintelligence.grenade_5bCal.core.name=Заряд ручной гранаты
-item.immersiveintelligence.grenade_5bCal.bullet.name=Ручная граната
+item.immersiveintelligence.grenade_5bCal.core.name=Заряд ручной гранаты 5-б\Кал
+item.immersiveintelligence.grenade_5bCal.bullet.name=Ручная граната 5-б\Кал
 
-item.immersiveintelligence.railgun_grenade_4bCal.core.name=Заряд подствольной рельсотронной гранаты
+item.immersiveintelligence.railgun_grenade_4bCal.core.name=Заряд подствольной рельсотронной гранаты 4-б\Кал
 item.immersiveintelligence.railgun_grenade_4bCal.bullet.name=Подствольная рельсотронная граната 4-б\Кал
 
 
 ///////////////////////////////////////////////////////////////////////////////
 item.immersiveintelligence.bullet.component.TNT.name=Динамит
-item.immersiveintelligence.bullet.component.RDX.name=Гексоген
-item.immersiveintelligence.bullet.component.HMX.name=Октоген
+item.immersiveintelligence.bullet.component.RDX.name=Гексоген (RDX)
+item.immersiveintelligence.bullet.component.HMX.name=Октоген (HMX)
 item.immersiveintelligence.bullet.component.white_phosphorus.name=Белый фосфор
 item.immersiveintelligence.bullet.component.firework.name=Фейерверк
 item.immersiveintelligence.bullet.component.tesla.name=Излучатели ЭМИ заряда
@@ -465,15 +465,15 @@ item.immersiveintelligence.bullet.component.CoreUranium.name=Урановый с
 item.immersiveintelligence.bullet.component.core_pabilium.name=Пабилиумовый сердечник
 
 item.immersiveintelligence.bullet_magazine.machinegun.name=Пулемётный магазин
-item.immersiveintelligence.bullet_magazine.submachinegun.name=Магазин пистолет-пулемёта
-item.immersiveintelligence.bullet_magazine.submachinegun_drum.name=Барабанный магазин пистолет-пулемёта
-item.immersiveintelligence.bullet_magazine.automatic_revolver.name=Автоматический револьверный магазин
+item.immersiveintelligence.bullet_magazine.submachinegun.name=Магазин пистолета-пулемёта
+item.immersiveintelligence.bullet_magazine.submachinegun_drum.name=Барабанный магазин пистолета-пулемёта
+item.immersiveintelligence.bullet_magazine.automatic_revolver.name=Магазин автоматического револьвера
 item.immersiveintelligence.bullet_magazine.assault_rifle.name=Автоматный магазин
 item.immersiveintelligence.bullet_magazine.autocannon.name=Магазин автопушки
 item.immersiveintelligence.bullet_magazine.cpds_drum.name=Барабанный магазин СПРО
 item.immersiveintelligence.bullet_magazine.rifle.name=Винтовочный магазин
 
-item.immersiveintelligence.casing_pouch.name=Подсумок для стреляных гильз
+item.immersiveintelligence.casing_pouch.name=Подсумок для гильз
 
 item.immersiveintelligence.motor_gear.copper.name=Медная шестерня
 item.immersiveintelligence.motor_gear.brass.name=Латунная шестерня
@@ -481,15 +481,15 @@ item.immersiveintelligence.motor_gear.iron.name=Железная шестерн�
 item.immersiveintelligence.motor_gear.steel.name=Стальная шестерня
 item.immersiveintelligence.motor_gear.tungsten.name=Вольфрамовая шестерня
 
-item.immersiveintelligence.motor_belt.cloth.name=Тканевый моторный ремень
-item.immersiveintelligence.motor_belt.steel.name=Стальной моторный ремень
-item.immersiveintelligence.motor_belt.rubber.name=Резиновый моторный ремень
+item.immersiveintelligence.motor_belt.cloth.name=Тканевый ремень
+item.immersiveintelligence.motor_belt.steel.name=Стальной ремень
+item.immersiveintelligence.motor_belt.rubber.name=Резиновый ремень
 
-item.immersiveintelligence.wrench.name=Гаечный ключ инжинера
+item.immersiveintelligence.wrench.name=Гаечный ключ инженера
 item.immersiveintelligence.electric_wrench.name=Электрический гаечный ключ
 
-item.immersiveintelligence.tachometer.name=Тахометр инжинера
-item.immersiveintelligence.torque_meter.name=Торсиометр инжинера
+item.immersiveintelligence.tachometer.name=Тахометр инженера
+item.immersiveintelligence.torque_meter.name=Торсиометр инженера
 
 
 //Блоки
@@ -514,8 +514,8 @@ tile.immersiveintelligence.storage_slab.tungsten.name=Вольфрамовая �
 
 tile.immersiveintelligence.ore.salt.name=Галитовая руда
 
-tile.immersiveintelligence.ore.fluorite.name=Флюоритавая руда
-tile.immersiveintelligence.ore.phosphorus.name=Глауконитавая руда
+tile.immersiveintelligence.ore.fluorite.name=Плавиковый шпат
+tile.immersiveintelligence.ore.phosphorus.name=Глауконит
 
 tile.immersiveintelligence.sheetmetal.brass.name=Латунный листовой металл
 tile.immersiveintelligence.storage.brass.name=Латунный блок
@@ -533,24 +533,24 @@ tile.immersiveintelligence.fence_zinc.name=Цинковый Забор
 tile.immersiveintelligence.fence_platinum.name=Платиновый Забор
 tile.immersiveintelligence.fence_duraluminium.name=Дюралюминивый Забор
 
-tile.immersiveintelligence.rubber_log.raw.name=Бревно каучукавого дерева
+tile.immersiveintelligence.rubber_log.raw.name=Бревно гевеи
 tile.immersiveintelligence.rubber_log.rebbur.name=Отверстие для извлечения каучука
 tile.immersiveintelligence.rubber_log.stripped.name=Очищенная точка для извлечения каучука
-tile.immersiveintelligence.rubber_leaves.rubber.name=Листья каучукавого дерева
-tile.immersiveintelligence.rubber_sapling.rubber.name=Сажанец каучукавого дерева
-tile.immersiveintelligence.charred_log.main.name=Обгленное бревно
+tile.immersiveintelligence.rubber_leaves.rubber.name=Листья гевеи
+tile.immersiveintelligence.rubber_sapling.rubber.name=Саженец гевеи
+tile.immersiveintelligence.charred_log.main.name=Обугленное бревно
 
 tile.immersiveintelligence.concrete_decoration.concrete_bricks.name=Бетонные кирпичи
 tile.immersiveintelligence.concrete_decoration_slab.concrete_bricks.name=Плита бетонных кирпичей
 tile.immersiveintelligence.concrete_decoration_stairs_concrete_bricks.name=Ступенки из бетонных кирпичей
 
 tile.immersiveintelligence.concrete_decoration.sturdy_concrete_bricks.name=Panzerбетонные кирпичи
-tile.immersiveintelligence.concrete_decoration_slab.sturdy_concrete_bricks.name=Плита из Panzerбетонных кирпичей
-tile.immersiveintelligence.concrete_decoration_stairs_sturdy_concrete_bricks.name=Ступенки из Panzerбетонных кирпичей
+tile.immersiveintelligence.concrete_decoration_slab.sturdy_concrete_bricks.name=Плита из Panzerбетонные кирпичей
+tile.immersiveintelligence.concrete_decoration_stairs_sturdy_concrete_bricks.name=Ступенки из Panzercбетонные кирпичей
 
 tile.immersiveintelligence.concrete_decoration.uberconcrete.name=Überбетонные кирпичи
-tile.immersiveintelligence.concrete_decoration_slab.uberconcrete.name=Плита из Überбетонных кирпичей
-tile.immersiveintelligence.concrete_decoration_stairs_uberconcrete.name=Ступенки из Überбетонных кирпичей
+tile.immersiveintelligence.concrete_decoration_slab.uberconcrete.name=Плита из Überбетонные кирпичей
+tile.immersiveintelligence.concrete_decoration_stairs_uberconcrete.name=Ступенки из Überбетонные кирпичей
 
 tile.immersiveintelligence.metal_decoration.electronic_engineering.name=Электронный инженерный блок
 tile.immersiveintelligence.metal_decoration.advanced_electronic_engineering.name=Продвинутый электронный инженерный блок
@@ -558,11 +558,11 @@ tile.immersiveintelligence.metal_decoration.computer_engineering.name=Компь
 tile.immersiveintelligence.metal_decoration.mechanical_engineering.name=Механический инженерный блок
 tile.immersiveintelligence.metal_decoration.heavy_mechanical_engineering.name=Тяжёлый механический инженерный блок
 
-tile.immersiveintelligence.metal_decoration.coil_data.name=Катушка кабеля данных
-tile.immersiveintelligence.cloth_decoration.coil_rope.name=Катушка верёвки
-tile.immersiveintelligence.metal_decoration.coil_steel_motor_belt.name=Стальной ремень
-tile.immersiveintelligence.cloth_decoration.coil_cloth_motor_belt.name=Тканевый ремень
-tile.immersiveintelligence.cloth_decoration.coil_rubber_motor_belt.name=Резиновый ремень
+tile.immersiveintelligence.metal_decoration.coil_data.name=Блок Катушки кабеля данных
+tile.immersiveintelligence.cloth_decoration.coil_rope.name=Блок катушки верёвки
+tile.immersiveintelligence.metal_decoration.coil_steel_motor_belt.name=Блок стального ремня
+tile.immersiveintelligence.cloth_decoration.coil_cloth_motor_belt.name=Блок тканевого ремня
+tile.immersiveintelligence.cloth_decoration.coil_rubber_motor_belt.name=Блок резинового ремня
 
 tile.immersiveintelligence.stone_decoration.sandbags.name=Мешки с песком
 tile.immersiveintelligence.mine_sign.mine_sign.desc=Стоп;Мины!
@@ -581,12 +581,12 @@ tile.immersiveengineering.conveyor.immersiveintelligence:rubber_extractcovered.n
 
 #due to how IE's base classes are designed, I had to use a "main" as only value in IIBlockTypes_Mine
 #redundant? yes, works? yes
-tile.immersiveintelligence.tripmine.main.name=Растяжка
-tile.immersiveintelligence.tripmine.core.name=Заряд растяжки
+tile.immersiveintelligence.tripmine.main.name=Мина-растяжка
+tile.immersiveintelligence.tripmine.core.name=Заряд мины-растяжки
 #Same as above (for the landmine and explosives), this is due to how the projectile workshop gets the translation
-item.immersiveintelligence.tripmine.core.name=Заряд растяжки
-item.immersiveintelligence.ammo_casing.tripmine.name=Корпус растяжки
-tile.immersiveintelligence.tripwire_connector.main.name=Крепёж растяжки
+item.immersiveintelligence.tripmine.core.name=Заряд мины-растяжки
+item.immersiveintelligence.ammo_casing.tripmine.name=Корпус мины-растяжки
+tile.immersiveintelligence.tripwire_connector.main.name=Крепёж мины-растяжки
 
 tile.immersiveintelligence.tellermine.main.name=Наземная мина
 tile.immersiveintelligence.tellermine.core.name=Заряд наземной мины
@@ -614,9 +614,9 @@ tile.immersiveintelligence.metal_device.punchtape_reader.name=Считывате
 tile.immersiveintelligence.metal_device.data_router.name=Маршрутизатор данных
 tile.immersiveintelligence.metal_device.data_merger.name=Объеденитель данных
 
-tile.immersiveintelligence.metal_device.ammunition_crate.name=Ящик с боеприпасами
-tile.immersiveintelligence.metal_device.medic_crate.name=Ящик с медикаментами
-tile.immersiveintelligence.metal_device.repair_crate.name=Ящик с запчастями
+tile.immersiveintelligence.metal_device.ammunition_crate.name=Ящик для боеприпасов
+tile.immersiveintelligence.metal_device.medic_crate.name=Ящик для медикаментов
+tile.immersiveintelligence.metal_device.repair_crate.name=Ящик для ремонта
 
 tile.immersiveintelligence.metal_device.latex_collector.name=Сборщик каучука
 
@@ -631,22 +631,22 @@ tile.immersiveintelligence.mechanical_connector.wooden_wheel.name=Деревян
 tile.immersiveintelligence.mechanical_connector.iron_wheel.name=Железное колесо
 tile.immersiveintelligence.mechanical_connector.steel_wheel.name=Стальное колесо
 
-tile.immersiveintelligence.small_crate.wooden_crate_box.name=Маленький деревянных ящик (коробка)
-tile.immersiveintelligence.small_crate.wooden_crate_cube.name=Маленький деревянных ящик (куб)
-tile.immersiveintelligence.small_crate.wooden_crate_wide.name=Маленький деревянных ящик (широкий)
+tile.immersiveintelligence.small_crate.wooden_crate_box.name=Маленький деревянный ящик (коробка)
+tile.immersiveintelligence.small_crate.wooden_crate_cube.name=Маленький деревянный ящик (куб)
+tile.immersiveintelligence.small_crate.wooden_crate_wide.name=Маленький деревянный ящик (широкий)
 tile.immersiveintelligence.small_crate.metal_crate_box.name=Маленький металлический ящик (коробка)
 tile.immersiveintelligence.small_crate.metal_crate_cube.name=Маленький металлический ящик (куб)
 tile.immersiveintelligence.small_crate.metal_crate_wide.name=Маленький металлический ящик (широкий)
-tile.immersiveintelligence.small_crate.reinforced_crate_box.name=Небольшой усиленный ящик (коробка)
-tile.immersiveintelligence.small_crate.reinforced_crate_cube.name=Небольшой усиленный ящик (куб)
-tile.immersiveintelligence.small_crate.reinforced_crate_wide.name=Небольшой усиленный ящик (широкий)
+tile.immersiveintelligence.small_crate.reinforced_crate_box.name=Маленький усиленный ящик (коробка)
+tile.immersiveintelligence.small_crate.reinforced_crate_cube.name=Маленький усиленный ящик (куб)
+tile.immersiveintelligence.small_crate.reinforced_crate_wide.name=Маленький усиленный ящик (широкий)
 
-tile.immersiveintelligence.metal_fortification.steel_chain_fence.name=Забор из стальной цепи
-tile.immersiveintelligence.metal_fortification.brass_chain_fence.name=Забор из латунной цепи
-tile.immersiveintelligence.metal_fortification.aluminium_chain_fence.name=Забор из алюминевой цепи
+tile.immersiveintelligence.metal_fortification.steel_chain_fence.name=Забор с стальной сеткой
+tile.immersiveintelligence.metal_fortification.brass_chain_fence.name=Забор  с латунной сеткой
+tile.immersiveintelligence.metal_fortification.aluminium_chain_fence.name=Забор  с алюминевой сеткой
 
-tile.immersiveintelligence.wooden_fortification.wooden_steel_chain_fence.name=Деревянный забор из стальной цепи
-tile.immersiveintelligence.wooden_fortification.wooden_brass_chain_fence.name=Деревянный забор из латунной цепи
+tile.immersiveintelligence.wooden_fortification.wooden_steel_chain_fence.name=Деревянный забор со стальной сеткой
+tile.immersiveintelligence.wooden_fortification.wooden_brass_chain_fence.name=Деревянный забор с латунной сеткой
 
 tile.immersiveintelligence.metal_fortification1.tank_trap.name=Противотанковый ёж
 
@@ -668,7 +668,7 @@ tile.immersiveintelligence.metal_multiblock.redstone_interface.modes.5=Стро�
 
 tile.immersiveintelligence.metal_multiblock.arithmetic_logic_machine.storage=Арифметико-логическая машина - хранилище
 tile.immersiveintelligence.metal_multiblock.arithmetic_logic_machine.programming=Арифметико-логическая машина - программирование
-tile.immersiveintelligence.metal_multiblock.arithmetic_logic_machine.edit=Арифметико-логическая машина - редактирование Выражения
+tile.immersiveintelligence.metal_multiblock.arithmetic_logic_machine.edit=Арифметико-логическая машина - редактирование выражения
 
 
 tile.immersiveintelligence.data_connector.data_connector.name=Коннектор данных
@@ -701,10 +701,10 @@ tile.immersiveintelligence.metal_multiblock.arithmetic_logic_machine.name=Ари
 tile.immersiveintelligence.metal_multiblock.radio_station.name=Радиостанция
 tile.immersiveintelligence.metal_multiblock.printing_press.name=Печатный пресс
 tile.immersiveintelligence.metal_multiblock.chemical_bath.name=Химическая ванна
-tile.immersiveintelligence.metal_multiblock.electrolyzer.name=Электролизер
+tile.immersiveintelligence.metal_multiblock.electrolyzer.name=Электролизёр
 tile.immersiveintelligence.metal_multiblock.precission_assembler.name=Точный сборщик
 tile.immersiveintelligence.metal_multiblock.persicope.name=Перископ
-tile.immersiveintelligence.metal_multiblock.artillery_howitzer.name=Артиреллийское орудие
+tile.immersiveintelligence.metal_multiblock.artillery_howitzer.name=Артиллерийское орудие
 tile.immersiveintelligence.metal_multiblock.ballistic_computer.name=Баллистический компьютер
 tile.immersiveintelligence.metal_multiblock.missile_silo.name=Ракетная шахта
 tile.immersiveintelligence.metal_multiblock.ammunition_factory.name=Завод боеприпасов
@@ -720,15 +720,15 @@ tile.immersiveintelligence.metal_multiblock1.vulcanizer.name=Вулканиза�
 tile.immersiveintelligence.metal_multiblock1.coagulator.name=Свёртыватель
 
 tile.immersiveintelligence.metal_multiblock1.fuel_station.name=Заправка
-tile.immersiveintelligence.metal_multiblock1.emplacement.name=Огневая Точка
+tile.immersiveintelligence.metal_multiblock1.emplacement.name=Огневая точка
 tile.immersiveintelligence.metal_multiblock1.radar.name=Радар
 
 tile.immersiveintelligence.gate_multiblock.wooden.name=Деревянные ворота
 tile.immersiveintelligence.gate_multiblock.steel.name=Стальные ворота
 tile.immersiveintelligence.gate_multiblock.aluminium.name=Алюминиевые ворота
-tile.immersiveintelligence.gate_multiblock.wooden_chain.name=Деревянные сеточные ворота
-tile.immersiveintelligence.gate_multiblock.steel_chain.name=Стальные сеточные ворота
-tile.immersiveintelligence.gate_multiblock.aluminium_chain.name=Алюминиевые сеточные ворота
+tile.immersiveintelligence.gate_multiblock.wooden_chain.name=Деревянные ворота с сеткой
+tile.immersiveintelligence.gate_multiblock.steel_chain.name=Стальные ворота с сеткой
+tile.immersiveintelligence.gate_multiblock.aluminium_chain.name=Алюминиевые ворота с сеткой
 
 desc.immersiveintelligence.metal_multiblock1.emplacement.storage=Огневая Точка - Хранилище
 desc.immersiveintelligence.metal_multiblock1.emplacement.tasks=Огневая Точка - Задачи
@@ -736,7 +736,7 @@ desc.immersiveintelligence.metal_multiblock1.emplacement.status=Огневая �
 desc.immersiveintelligence.metal_multiblock1.emplacement.base_inventory=Инвентарь базы
 desc.immersiveintelligence.metal_multiblock1.emplacement.weapon=Установленный: %s
 desc.immersiveintelligence.metal_multiblock1.emplacement.weapon_none=Пусто
-desc.immersiveintelligence.metal_multiblock1.emplacement.upgrades=Установленные улучшении
+desc.immersiveintelligence.metal_multiblock1.emplacement.upgrades=Установленные улучшения
 desc.immersiveintelligence.metal_multiblock1.emplacement.settings=Настройки
 desc.immersiveintelligence.metal_multiblock1.emplacement.redstone_control=Контролируемый редстоуном
 desc.immersiveintelligence.metal_multiblock1.emplacement.data_control=Контролируемый данными
@@ -782,15 +782,15 @@ desc.immersiveintelligence.metal_multiblock1.emplacement.target.name=Имя
 tile.immersiveintelligence.metal_multiblock1.flagpole.name=Флагшток
 
 tile.immersiveintelligence.gate_multiblock.wooden_fence_gate.name=Деревянные ворота
-tile.immersiveintelligence.gate_multiblock.wooden_chain_fence_gate.name=Деревянные цепные ворота
+tile.immersiveintelligence.gate_multiblock.wooden_chain_fence_gate.name=Деревянные сеточные ворота
 tile.immersiveintelligence.gate_multiblock.steel_fence_gate.name=Стальные ворота
-tile.immersiveintelligence.gate_multiblock.steel_chain_fence_gate.name=Стальные цепные ворота
+tile.immersiveintelligence.gate_multiblock.steel_chain_fence_gate.name=Стальные сеточные ворота
 tile.immersiveintelligence.gate_multiblock.aluminium_fence_gate.name=Алюминиевые ворота
-tile.immersiveintelligence.gate_multiblock.aluminium_chain_fence_gate.name=Алюминиевые цепные ворота
+tile.immersiveintelligence.gate_multiblock.aluminium_chain_fence_gate.name=Алюминиевые сеточные ворота
 
 tile.immersiveintelligence.metal_multiblock1.filler.name=Наполнитель
 tile.immersiveintelligence.metal_multiblock1.ammunition_workshop.name=Мастерская боеприпасов
-tile.immersiveintelligence.metal_multiblock1.heavy_ammunition_assembler.name=Сборщик ракет
+tile.immersiveintelligence.metal_multiblock1.heavy_ammunition_assembler.name=Сборщик тяжёлых боеприпасов
 tile.immersiveintelligence.metal_multiblock1.projectile_workshop.name=Мастерская пуль
 
 tile.immersiveintelligence.metal_multiblock1.chemical_painter.name=Химический Маляр
@@ -923,7 +923,7 @@ subtitle.immersiveintelligence.distant_artillery_impact=Отдаленный а�
 subtitle.immersiveintelligence.distant_gunshot=Отдаленные выстрелы
 subtitle.immersiveintelligence.dryfire=Осечка
 
-subtitle.immersiveintelligence.casing_pickup=Гильзы опускаются в подсумоки
+subtitle.immersiveintelligence.casing_pickup=Гильзы опускаются в подсумок
 
 subtitle.immersiveintelligence.machinegun_shot_def=Пулемёт стреляет
 subtitle.immersiveintelligence.machinegun_shot_distant=Пулемёт стреляет вдалеке
@@ -1167,7 +1167,7 @@ desc.immersiveintelligence.radio_configurator_advanced=Модернизиров�
 desc.immersiveintelligence.radio_configurator_frequency=Частота: %s
 desc.immersiveintelligence.radio_configurator_max_frequency=Макс. Частота: %s
 desc.immersiveintelligence.naval_mine_chain_length=Максимальная длина цепи: %s
-desc.immersiveintelligence.measuring_cup_size=Capacity: %s / %s мВ
+desc.immersiveintelligence.measuring_cup_size=Замеряемый объём: %s / %s мВ
 desc.immersiveintelligence.measuring_cup_cant_resize=Невозможно изменить размер, когда содержит жидкость.
 desc.immersiveintelligence.functional_circuit_shift=%s - Доступные операции
 desc.immersiveintelligence.functional_circuit_ctrl=%s - Сохраненные операции
@@ -1449,10 +1449,10 @@ datasystem.immersiveintelligence.function.string_trim=Trim
 datasystem.immersiveintelligence.function.string_hexcol=Использовать шеснацатизначный формат
 datasystem.immersiveintelligence.function.string_format=Использовать текстовой формат
 
-datasystem.immersiveintelligence.function.string_contains=Contains
+datasystem.immersiveintelligence.function.string_contains=Константы
 datasystem.immersiveintelligence.function.string_contains_count=Contained Amount
-datasystem.immersiveintelligence.function.string_replace_first=Replace First
-datasystem.immersiveintelligence.function.string_replace_all=Replace All
+datasystem.immersiveintelligence.function.string_replace_first=Заменить Первую
+datasystem.immersiveintelligence.function.string_replace_all=Заменить все
 
 datasystem.immersiveintelligence.function.string_lowercase=To Lowercase
 datasystem.immersiveintelligence.function.string_uppercase=To Uppercase
@@ -1476,7 +1476,7 @@ datasystem.immersiveintelligence.function.get_durability=Получить про
 datasystem.immersiveintelligence.function.set_durability=Установить прочность
 datasystem.immersiveintelligence.function.get_nbt=Получить NBT теги
 datasystem.immersiveintelligence.function.set_nbt=Установить NBT теги
-datasystem.immersiveintelligence.function.get_itemstack=Взять число стака предмета
+datasystem.immersiveintelligence.function.get_itemstack=Взять число предметов в стаке
 datasystem.immersiveintelligence.function.get_item_id=Взять ID предмета
 datasystem.immersiveintelligence.function.can_stack_with=Можно складывать с
 datasystem.immersiveintelligence.function.matches_oredict=Соответствует Словарю руд 
@@ -1758,7 +1758,7 @@ ie.manual.entry.traits.level_beginner=Complexity: Доиндустриальнн
 ie.manual.entry.traits.level_early_industrial=Complexity: Ранний индустриальная эпоха
 ie.manual.entry.traits.level_industrial=Complexity: Индустриальнный век
 ie.manual.entry.traits.level_advanced_industrial=Complexity: Поздний индустриальная эпоха
-ie.manual.entry.traits.level_circuits=Complexity: Электроная век
+ie.manual.entry.traits.level_circuits=Complexity: Электронный век
 ie.manual.entry.traits.level_computer=Complexity: Эра компьютеров
 ie.manual.entry.traits.hammer=Базовый мультиблок - Формируйте с использованием Инженерного молота
 ie.manual.entry.traits.hammer_electric=Продвинутый мультиблок - Формируйте с использованием Электрического молота
@@ -2580,7 +2580,7 @@ ie.manual.entry.electrolyzer.subtext=Гидравлическая шоковая
 ie.manual.entry.electrolyzer0=Электролизер - это машина, которая в процессе электролиза разделяет жидкость на две разные. Он может расщеплять воду на водород и кислород, а рассол - на хлор и водород. Для работы требуется электричество. Чтобы сформировать блок, используйте молоток по тяжёлому инженерному блоку перед машиной.
 
 ie.manual.entry.printing_press.name=Печатный станок
-ie.manual.entry.printing_press.subtext=Книга и перо для инжинера
+ie.manual.entry.printing_press.subtext=Книга и перо для инженера
 ie.manual.entry.printing_press0=Печатный станок - это машина, которая может распечатывать текст по запросу при получении пакета данных. Для работы печатной машине требуются чернила и бумага. Чтобы сформировать его, используйте молоток по светотехническому блоку перед станком.
 ie.manual.entry.printing_press1= Бумага для печати - это специальный разбавленный вариант стандартной, используемой в книгах, создается путем прессования бумаги в металлическом прессе. Аппарату требуются чернила разных цветов в зависимости от значений CMYK текущего печатаемого цвета.
 ie.manual.entry.printing_press2=количество чернил в зависимости от цвета печатаемого символа. Напечатанные страницы должны быть немедленно удалены, так как печатная машина может хранить только 12 из них в своей корзине.
