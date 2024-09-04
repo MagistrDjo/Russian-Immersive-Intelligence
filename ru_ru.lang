@@ -447,7 +447,7 @@ item.immersiveintelligence.bullet.component.RDX.name=Гексоген (RDX)
 item.immersiveintelligence.bullet.component.HMX.name=Октоген (HMX)
 item.immersiveintelligence.bullet.component.white_phosphorus.name=Белый фосфор
 item.immersiveintelligence.bullet.component.firework.name=Фейерверк
-item.immersiveintelligence.bullet.component.tesla.name=Излучатели ЭМИ заряда
+item.immersiveintelligence.bullet.component.tesla.name=Излучатели ЭМИ
 item.immersiveintelligence.bullet.component.tracer_powder.name=Трассирующий
 item.immersiveintelligence.bullet.component.flare_powder.name=Осветительный
 item.immersiveintelligence.bullet.component.propaganda.name=Пропаганда
@@ -558,7 +558,7 @@ tile.immersiveintelligence.metal_decoration.computer_engineering.name=Компь
 tile.immersiveintelligence.metal_decoration.mechanical_engineering.name=Механический инженерный блок
 tile.immersiveintelligence.metal_decoration.heavy_mechanical_engineering.name=Тяжёлый механический инженерный блок
 
-tile.immersiveintelligence.metal_decoration.coil_data.name=Блок Катушки кабеля данных
+tile.immersiveintelligence.metal_decoration.coil_data.name=Блок катушки кабеля данных
 tile.immersiveintelligence.cloth_decoration.coil_rope.name=Блок катушки верёвки
 tile.immersiveintelligence.metal_decoration.coil_steel_motor_belt.name=Блок стального ремня
 tile.immersiveintelligence.cloth_decoration.coil_cloth_motor_belt.name=Блок тканевого ремня
@@ -642,8 +642,8 @@ tile.immersiveintelligence.small_crate.reinforced_crate_cube.name=Маленьк
 tile.immersiveintelligence.small_crate.reinforced_crate_wide.name=Маленький усиленный ящик (широкий)
 
 tile.immersiveintelligence.metal_fortification.steel_chain_fence.name=Забор с стальной сеткой
-tile.immersiveintelligence.metal_fortification.brass_chain_fence.name=Забор  с латунной сеткой
-tile.immersiveintelligence.metal_fortification.aluminium_chain_fence.name=Забор  с алюминиевой сеткой
+tile.immersiveintelligence.metal_fortification.brass_chain_fence.name=Забор с латунной сеткой
+tile.immersiveintelligence.metal_fortification.aluminium_chain_fence.name=Забор с алюминиевой сеткой
 
 tile.immersiveintelligence.wooden_fortification.wooden_steel_chain_fence.name=Деревянный забор со стальной сеткой
 tile.immersiveintelligence.wooden_fortification.wooden_brass_chain_fence.name=Деревянный забор с латунной сеткой
