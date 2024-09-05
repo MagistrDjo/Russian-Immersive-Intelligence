@@ -1924,7 +1924,7 @@ ie.manual.entry.warfare_main0=Военное дело - это отрасль и
 
 ie.manual.entry.contributor_skins.name=Шейдеры для участников
 ie.manual.entry.contributor_skins.subtext=За поддержку общего дела!
-ie.manual.entry.contributor_skins=Участники проекта Immersive Intelligence, независимо от того, оказывают ли они непосредственную помощь, предоставляя ресурсы, код, переводы, записывая обучающие видеоролики, делая пожертвования через Patreon или просто внося свой вклад в сообщество, не могут быть обойдены вниманием и должны быть вознаграждены.Для этого в игру была добавлена коллекция скинов, которые применимы к различным видам оружия, начиная от пулемётов и заканчивая гаубицами. Огромное спасибо всем вам, без вас этот проект занял бы гораздо больше времени, чем в ближайшее время™.
+ie.manual.entry.contributor_skins=Участники проекта Immersive Intelligence, независимо от того, оказывают ли они непосредственную помощь, предоставляя ресурсы, код, переводы, записывая обучающие видеоролики, делая пожертвования через Patreon или просто внося свой вклад в сообщество, не могут быть обойдены вниманием и должны быть вознаграждены. Для этого в игру была добавлена коллекция скинов, которые применимы к различным видам оружия, начиная от пулемётов и заканчивая гаубицами. Огромное спасибо всем вам, без вас этот проект занял бы гораздо больше времени, чем в ближайшее время™.
 
 #Отсылка на всем известную игру
 ie.manual.entry.machinegun.name=Пулемёт
@@ -1958,11 +1958,11 @@ ie.manual.entry.submachinegun_upgrade_folding_stock=The §6folding stock§r make
 ie.manual.entry.autorevolver_upgrade_heavy_springbox=§6Тяжёлый пружинная коробка§r это улучшение автоматического револьвера. Он использует механическую энергию для сжатия воздуха в патроннике, что значительно увеличивает скорость полета пули. Недостатками являются более низкая скорость перезарядки и точность стрельбы.
 
 # эти строчки были пусты
-ie.manual.entry.assault_rifle_upgrade_rifle_grenade_launcher=Подствольный гранотомёт
+ie.manual.entry.assault_rifle_upgrade_rifle_grenade_launcher=Подствольный гранатомёт
 ie.manual.entry.assault_rifle_upgrade_stereoscopic_rangefinder=Стереоскопический дальномер
 ie.manual.entry.assault_rifle_upgrade_gyroscopic_stabilizer=Гироскопический стабилизатор
 ie.manual.entry.assault_rifle_upgrade_electric_firing_motor=Электрический приводной двигатель
-ie.manual.entry.assault_rifle_upgrade_railgun_assisted_chamber=
+ie.manual.entry.assault_rifle_upgrade_railgun_assisted_chamber=Рельсотронный ускоритель
 
 ie.manual.entry.mortar.name=Миномёт
 ie.manual.entry.mortar.subtext=Смерть свыше
@@ -2007,7 +2007,7 @@ ie.manual.entry.light_engineer_armor_upgrade_anti_static_mesh=The Anti-Static Me
 ie.manual.entry.light_engineer_armor_upgrade_camouflage_mesh=The Camouflage Mesh is a simple net with leaves attached to it, making the wearer blend in with foliage when sneaking.  Due to it being made from leaves, being lit on fire is not recommended. Especially useful in forests, gardens and plains.
 ie.manual.entry.light_engineer_armor_upgrade_infrared_absorbing_mesh=Стелс-сетка поглощает попадающий на нее инфракрасный свет, что служит идеальным способом укрыться от инфракрасных датчиков. Однако из-за своей конструкции попадание в нее электромагнитного оружия причинит больше вреда, чем обычно.
 ie.manual.entry.light_engineer_armor_upgrade_scuba_tank=The Scuba Tank gives the ability to remain longer underwater with no need to resurface for new air reserves. It can be filled with oxygen using the <link;bottlingMachine;§o§nBottling §o§nMachine§r>.<br>Comes especially handy during underwater construction works. Requires a Gas Mask to be worn.
-ie.manual.entry.light_engineer_armor_upgrade_helipack= " Мемя ещё нет в моде "
+ie.manual.entry.light_engineer_armor_upgrade_helipack= " Меня ещё нет в моде "
 ie.manual.entry.light_engineer_armor_upgrade_exoskeleton=Экзоскелет позволяет пользователю бегать быстрее благодаря сложному набору двигателей и гидравлики. В целях безопасности он активируется только во время бега. Для работы экзоскелета требуется энергия.
 ie.manual.entry.light_engineer_armor_upgrade_boot_reinforcement=The Boots Reinforcement upgrade consists of several steel plates, held together by leather straps. It adds additional armor and protects the wearer from fire.
 ie.manual.entry.light_engineer_armor_upgrade_flippers=Flippers allow swift movement in fluids. They work very well with the Scuba Tank and Gas Mask.
@@ -2033,7 +2033,7 @@ ie.manual.entry.flagpole1=The flagpole keeps 8 surrounding chunks loaded along w
 
 #Reference to Contra
 ie.manual.entry.emplacement.name=Огневая Точка
-ie.manual.entry.emplacement.subtext=Заперта и заряженна
+ie.manual.entry.emplacement.subtext=Заперта и заряжена
 ie.manual.entry.emplacement0=The Emplacement is a heavy defensive structure used for protecting the perimeter of your factory. To form it use a hammer on the upper middle sandbag block.
 ie.manual.entry.emplacement1=Compared to the traditional Gun Turret, setting up an Emplacement requires much more preparation. Emplacements do not have a <link;emplacement_weapons;§o§nweapon§r;> installed by default. Instead, the weapon is assembled on the emplacement using the Wrench or its Electric Equivalent. Upon interacting with emplacement with a wrench, you have a selection of modules to install, each requiring their own share of resources to be built. After you select the weapon of choice, you need to assemble it by further interacting with the emplacement using the Wrench. Note, the Electric Wrench assembles the weapon much faster.
 ie.manual.entry.emplacement2=The emplacement requires electricity, ammunition and by default a redstone signal in order to operate. If the redstone signal is cut off, the weapon will hide inside the emplacement.
@@ -2089,7 +2089,7 @@ ie.manual.entry.projectile_workshop1=In default configuration, the projectile wo
 ie.manual.entry.projectile_workshop2=The Projectile Workshop can be upgraded to become a Projectile Filler. This changes the role to filling cores produced by other Projectile Workshops using <link;bullet_components;§o§nComponents§r;>. An amount to be filled can be specified using the interface or trough the data system. The max amount is determined by the core type.
 
 #Отсылка ликвидирована
-ie.manual.entry.artillery_howitzer.name=Артиреллийское орудие
+ie.manual.entry.artillery_howitzer.name=Артиллерийское орудие
 ie.manual.entry.artillery_howitzer.subtext=Сестра Берты
 ie.manual.entry.artillery_howitzer1=Устройство высокоточной бомбардировки, широко известное как гаубица, является оружием непрямого огня, которое позволяет атаковать цели на расстоянии до 300 блоков. Он управляется с помощью информационной системы и заряжается специальными крупнокалиберными снарядами. Лучше всего использовать в наступательных операциях.
 ie.manual.entry.artillery_howitzer2=Гаубица состоит из бетонного бункера с пушкой, командных столов по бокам наверху и стальной двери, которую можно открыть, подав сигнал красного камня. Боеприпасы должны подаваться на спускающийся конвейер и заряжаться с помощью команды «загрузить», после выстрела пустой гильза пушки должна быть выгружена командой «разгрузить». Для работы машине требуется большое количество энергии. Чтобы сформировать его, используйте молоток по бетонному блоку, торчащему вверху.
@@ -2137,10 +2137,10 @@ ie.manual.entry.ballistic_computer.vars_out.p.sub=Допустимые знач�
 #Отсылка на общую неприязнь BluSunrize к пулемёту и ящику с боеприпасами
 ie.manual.entry.ammocrate.name=Ящик с боеприпасами
 ie.manual.entry.ammocrate.subtext=Зелёный, а не Синий
-ie.manual.entry.ammocrate0=Ящик с боеприпасами - это переносное хранилище для всех пуль и пустых гильз. Его можно использовать для заряжания револьвера или спидлоадера путем создания схемы заряжания и установки патронов внутрь. Чтобы извлечь револьвер из ящика, используйте его пустой рукой.
+ie.manual.entry.ammocrate0=Ящик с боеприпасами - это переносное хранилище для всех пуль и пустых гильз. Его можно использовать для заряжания револьвера или ускорителя заряжания путем создания схемы заряжания и установки патронов внутрь. Чтобы извлечь револьвер из ящика, используйте его пустой рукой.
 
 #Отсылка к Blacknight, автору спрайтов для электрического молота и зажигалки, а также автору идеи химического дозатора.
-ie.manual.entry.chemdispenser.name=Химический раздатчик
+ie.manual.entry.chemdispenser.name=Химический раздатчикв
 ie.manual.entry.chemdispenser.subtext=Пламя в Черной ночи
 ie.manual.entry.chemdispenser0=Устройство, изобретенное тем же инженером, который разработал электрический молот, первоначально для полива сельскохозяйственных культур и тушения пожаров, его также можно использовать для точного опрыскивания позиции зажигательной жидкостью.
 ie.manual.entry.chemdispenser1=Для химического дозатора требуется питание, подаваемое через провод к разъему устройства, сигнал данных (или постоянный сигнал красного камня) для принятия решения о его действиях и жидкость для входа на задней панели.
@@ -2180,7 +2180,7 @@ ie.manual.entry.bullet_core.core_steel.lore=Цельнометаллическа
 ie.manual.entry.bullet_core.core_steel.desc=Using steel is a non-expensive way to increase the penetration capabilties of the projectiles, only disadvantage is slightly decreased component effect.
 
 ie.manual.entry.bullet_core.core_tungsten=Вольфрамовый сердечник
-ie.manual.entry.bullet_core.core_tungsten.lore=Звёздые войны
+ie.manual.entry.bullet_core.core_tungsten.lore=Звёздные войны
 ie.manual.entry.bullet_core.core_tungsten.desc=Tungsten is a better at penetrating objects than steel, but it decreases the effect of other components
 
 ie.manual.entry.bullet_core.core_uranium=Урановый сердечник
@@ -2304,7 +2304,7 @@ ie.manual.entry.bullet_component.shrapnel_steel.lore=Война и мiр
 ie.manual.entry.bullet_component.shrapnel_steel.desc=Сталь - прекрасный осколочный материал, хороший урон, разброс и скорость делают ее эффективной против всех противников.
 
 ie.manual.entry.bullet_component.shrapnel_brass=Латунная шрапнель
-ie.manual.entry.bullet_component.shrapnel_brass.lore=Вовка в Тридевятом царстве
+ie.manual.entry.bullet_component.shrapnel_brass.lore=Чапаев
 ie.manual.entry.bullet_component.shrapnel_brass.desc=Латунь - плохой выбор для изготовления шрапнели, хотя из-за ее большого веса она наносит больше урона, чем другие слабые металлы.
 
 #A reference to Bear989sr. - a gregtech player, I just love when he says the word "steel", also some nice GT tutorials
