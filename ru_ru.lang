@@ -70,7 +70,7 @@ item.immersiveintelligence.assembly_scheme.name=Сборочная схема
 item.immersiveintelligence.press_mold.howitzer.name=Пресс-форма для металла: Гильза тяжёлой артиллерии
 item.immersiveintelligence.press_mold.medium_howitzer.name=Пресс-форма для металла: Гильза средней артиллерии
 item.immersiveintelligence.press_mold.light_howitzer.name=Пресс-форма для металла: Гильза легкой артиллерии
-item.immersiveintelligence.press_mold.mortar.name=Пресс-форма для металла: Корпус мниномётной мины
+item.immersiveintelligence.press_mold.mortar.name=Пресс-форма для металла: Корпус артиллерийской мины
 item.immersiveintelligence.press_mold.light_gun.name=Пресс-форма для металла: Гильза лёгкой пушки
 item.immersiveintelligence.press_mold.autocannon.name=Пресс-форма для металла: Гильза автоматической пушки
 item.immersiveintelligence.press_mold.shotgun.name=Пресс-форма для металла: Гильза ружейного патрона
@@ -81,7 +81,7 @@ item.immersiveintelligence.press_mold.naval_mine.name=Пресс-форма дл
 item.immersiveintelligence.press_mold.tripmine.name=Пресс-форма для металла: Мина-растяжка
 item.immersiveintelligence.press_mold.tellermine.name=Пресс-форма для металла: Наземная мина
 
-item.immersiveintelligence.vulcanizer_mold.belt.name=Форма вулканизации: Лист
+item.immersiveintelligence.vulcanizer_mold.belt.name=Форма вулканизации: Полоса
 item.immersiveintelligence.vulcanizer_mold.tire.name=Форма вулканизации: Шина
 
 item.immersiveintelligence.material_ingot.platinum.name=Платиновый слиток
@@ -160,7 +160,7 @@ item.immersiveintelligence.material.rubber_compound.name=Вулканизиру�
 
 item.immersiveintelligence.material.artificial_leather.name=Искусственная кожа
 item.immersiveintelligence.material.natural_rubber.name=Каучук
-item.immersiveintelligence.material.rubber_belt.name=Резиновый пояс
+item.immersiveintelligence.material.rubber_belt.name=Резиновая полоса
 item.immersiveintelligence.material.rubber_tire.name=Резиновая шина
 
 item.immersiveintelligence.circuit_functional.arithmetic.name=Арифметическая плата
@@ -383,25 +383,27 @@ item.immersiveintelligence.sawblade.steel.name=Стальное лезвие п�
 item.immersiveintelligence.sawblade.tungsten.name=Вольфрамовое лезвие пилы
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //bCal - Блок-Калибр (1/16 Блока = 1 bCal)
-item.immersiveintelligence.ammo_casing.artillery_8bcal.name=Гильза артиллерийского снаряда 8-б\Кал
-item.immersiveintelligence.artillery_8bCal.core.name=Заряд артиллерийского снаряда 8-б\Кал
-item.immersiveintelligence.artillery_8bCal.bullet.name=Артиллерийский снаряд 8-б\Кал
+// По совету Tokareva, Русская величина -б\Кал заменина на международную bCal
 
-item.immersiveintelligence.ammo_casing.medium_artillery_6bcal.name=Гильза среднего артиллерийского снаряда 6-б\Кал
-item.immersiveintelligence.artillery_6bcal_long.core.name=Заряд среднего артиллерийского снаряда 6-б\Кал
-item.immersiveintelligence.artillery_6bcal_long.bullet.name=Средней артиллерийский снаряд 6-б\Кал
+item.immersiveintelligence.ammo_casing.artillery_8bcal.name=Гильза артиллерийского снаряда 8 bCal
+item.immersiveintelligence.artillery_8bCal.core.name=Заряд артиллерийского снаряда 8 bCal
+item.immersiveintelligence.artillery_8bCal.bullet.name=Артиллерийский снаряд 8 bCal
 
-item.immersiveintelligence.ammo_casing.mortar_6bcal.name=Корпус миномётной мины 6-б\Кал
-item.immersiveintelligence.mortar_6bCal.core.name=Заряд миномётной мины 6-б\Кал
-item.immersiveintelligence.mortar_6bCal.bullet.name=Миномётная мина 6-б\Кал
+item.immersiveintelligence.ammo_casing.medium_artillery_6bcal.name=Гильза среднего артиллерийского снаряда 6 bCal
+item.immersiveintelligence.artillery_6bcal_long.core.name=Заряд среднего артиллерийского снаряда 6 bCal
+item.immersiveintelligence.artillery_6bcal_long.bullet.name=Средней артиллерийский снаряд 6 bCal
 
-item.immersiveintelligence.ammo_casing.light_artillery_6bcal.name=Гильза легкого артиллерийского снаряда 6-б\Кал
-item.immersiveintelligence.artillery_6bCal.core.name=Заряд легкого артиллерийского снаряда 6-б\Кал
-item.immersiveintelligence.artillery_6bCal.bullet.name=Легкий артиллерийский снаряд 6-б\Кал
+item.immersiveintelligence.ammo_casing.mortar_6bcal.name=Корпус артиллерийской мины 6 bCal
+item.immersiveintelligence.mortar_6bCal.core.name=Заряд артиллерийской мины 6 bCal
+item.immersiveintelligence.mortar_6bCal.bullet.name=Артиллерийская мина 6 bCal
 
-item.immersiveintelligence.ammo_casing.light_gun_4bcal.name=Гильза лёгкой пушки 4-б\Кал
-item.immersiveintelligence.gun_4bcal.core.name=Заряд лёгкой пушки 4-б\Кал
-item.immersiveintelligence.gun_4bcal.bullet.name=Снаряд лёгкой пушки 4-б\Кал
+item.immersiveintelligence.ammo_casing.light_artillery_6bcal.name=Гильза легкого артиллерийского снаряда 6 bCal
+item.immersiveintelligence.artillery_6bCal.core.name=Заряд легкого артиллерийского снаряда 6 bCal
+item.immersiveintelligence.artillery_6bCal.bullet.name=Легкий артиллерийский снаряд 6 bCal
+
+item.immersiveintelligence.ammo_casing.light_gun_4bcal.name=Гильза лёгкой пушки 4 bCal
+item.immersiveintelligence.gun_4bcal.core.name=Заряд лёгкой пушки 4 bCal
+item.immersiveintelligence.gun_4bcal.bullet.name=Снаряд лёгкой пушки 4 bCal
 
 item.immersiveintelligence.ammo_casing.rocket_6bcal.name=Корпус ракеты 
 item.immersiveintelligence.rocket_6bcal.core.name=Заряд ракеты 
@@ -417,28 +419,28 @@ item.immersiveintelligence.missile_guided_6bcal.bullet.name=Ракета про�
 
 item.immersiveintelligence.ammo_casing.mg_2bcal.name=Гильза винтовочного патрона
 item.immersiveintelligence.mg_2bCal.core.name=Сердечник винтовочного патрона
-item.immersiveintelligence.mg_2bCal.bullet.name=Винтовочный патрон 2-б\Кал
+item.immersiveintelligence.mg_2bCal.bullet.name=Винтовочный патрон 2 bCal
 
 item.immersiveintelligence.ammo_casing.stg_1bcal.name=Гильза промежуточного патрона
 item.immersiveintelligence.stg_1bCal.core.name=Сердечник промежуточного патрона
-item.immersiveintelligence.stg_1bCal.bullet.name=Промежуточный патрон 1-б\Кал
+item.immersiveintelligence.stg_1bCal.bullet.name=Промежуточный патрон 1 bCal
 
 item.immersiveintelligence.ammo_casing.smg_1bcal.name=Гильза пистолетного патрона
 item.immersiveintelligence.smg_1bCal.core.name=Сердечник пистолетного патрона
-item.immersiveintelligence.smg_1bCal.bullet.name=Пистолетный патрон 1-б\Кал
+item.immersiveintelligence.smg_1bCal.bullet.name=Пистолетный патрон 1 bCal
 
 item.immersiveintelligence.revolver_1bCal.core.name=Гильза револьвера
-item.immersiveintelligence.bullet.revolver_1bCal.name=Револьверный патрон 1-б\Кал
+item.immersiveintelligence.bullet.revolver_1bCal.name=Револьверный патрон 1 bCal
 
-item.immersiveintelligence.ammo_casing.autocannon_3bcal.name=Гильза автопушки 3-б\Кал
-item.immersiveintelligence.autocannon_3bCal.core.name=Сердечник автопушки 3-б\Кал
-item.immersiveintelligence.autocannon_3bCal.bullet.name=Снаряд автопушки 3-б\Кал
+item.immersiveintelligence.ammo_casing.autocannon_3bcal.name=Гильза автопушки 3 bCal
+item.immersiveintelligence.autocannon_3bCal.core.name=Сердечник автопушки 3 bCal
+item.immersiveintelligence.autocannon_3bCal.bullet.name=Снаряд автопушки 3 bCal
 
-item.immersiveintelligence.grenade_5bCal.core.name=Заряд ручной гранаты 5-б\Кал
-item.immersiveintelligence.grenade_5bCal.bullet.name=Ручная граната 5-б\Кал
+item.immersiveintelligence.grenade_5bCal.core.name=Заряд ручной гранаты 5 bCal
+item.immersiveintelligence.grenade_5bCal.bullet.name=Ручная граната 5 bCal
 
-item.immersiveintelligence.railgun_grenade_4bCal.core.name=Заряд подствольной рельсотронной гранаты 4-б\Кал
-item.immersiveintelligence.railgun_grenade_4bCal.bullet.name=Подствольная рельсотронная граната 4-б\Кал
+item.immersiveintelligence.railgun_grenade_4bCal.core.name=Заряд подствольной рельсотронной гранаты 4 bCal
+item.immersiveintelligence.railgun_grenade_4bCal.bullet.name=Подствольная рельсотронная граната 4 bCal
 
 
 ///////////////////////////////////////////////////////////////////////////////
@@ -485,11 +487,11 @@ item.immersiveintelligence.motor_belt.cloth.name=Тканевый ремень
 item.immersiveintelligence.motor_belt.steel.name=Стальной ремень
 item.immersiveintelligence.motor_belt.rubber.name=Резиновый ремень
 
-item.immersiveintelligence.wrench.name=Гаечный ключ инженера
+item.immersiveintelligence.wrench.name=Гаечный ключ 
 item.immersiveintelligence.electric_wrench.name=Электрический гаечный ключ
 
-item.immersiveintelligence.tachometer.name=Тахометр инженера
-item.immersiveintelligence.torque_meter.name=Торсиометр инженера
+item.immersiveintelligence.tachometer.name=Тахометр 
+item.immersiveintelligence.torque_meter.name=Торсиометр 
 
 
 //Блоки
@@ -648,7 +650,7 @@ tile.immersiveintelligence.metal_fortification.aluminium_chain_fence.name=Заб
 tile.immersiveintelligence.wooden_fortification.wooden_steel_chain_fence.name=Деревянный забор со стальной сеткой
 tile.immersiveintelligence.wooden_fortification.wooden_brass_chain_fence.name=Деревянный забор с латунной сеткой
 
-tile.immersiveintelligence.metal_fortification1.tank_trap.name=Противотанковый ёж
+tile.immersiveintelligence.metal_fortification1.tank_trap.name=Чешский ёж
 
 
 tile.immersiveintelligence.metal_multiblock.data_input_machine.storage=Машина ввода данных - хранилище
@@ -1056,7 +1058,7 @@ skin.immersiveintelligence.stormwind.text=Скин, вдохновленный �
 skin.immersiveintelligence.flakmeister.name=Зенитчик
 skin.immersiveintelligence.flakmeister.desc=Для известного артиллериста
 skin.immersiveintelligence.flakmeister.text=Скин, подаренный (Carver)у, который внес большой вклад и усовершенствовал его еще немного.
-# я его гдето в авивках потерял
+# я его где-то в авивках потерял
 
 skin.immersiveintelligence.blackdragon.name=Черный дракон
 skin.immersiveintelligence.blackdragon.desc=Награда присуждается за вклад, усилия и содержание
@@ -1266,7 +1268,7 @@ desc.immersiveintelligence.bullet_core_type.shaped_sabot=Оперённый ку
 desc.immersiveintelligence.bullet_core_type.piercing=Бронебойный
 desc.immersiveintelligence.bullet_core_type.piercing_sabot=Саботаж
 desc.immersiveintelligence.bullet_core_type.canister=Шрапнель
-#Последние можно перевести на кассетный, но у на Женевская конвенция
+#Последние можно перевести как кассетный, но у нас Женевская конвенция и так нельзя
 desc.immersiveintelligence.bullet_core_type.cluster=Кластер
 
 desc.immersiveintelligence.bullet_fuse.contact=Контактный
@@ -1277,10 +1279,10 @@ desc.immersiveintelligence.bullet_fuse.tooltip.proximity=Бесконтактн�
 
 desc.immersiveintelligence.bullets.composition=%s - Состав
 desc.immersiveintelligence.bullets.details=Детали:
-desc.immersiveintelligence.bullets.core=Заполнен: %1$s б\Кал %2$s %3$s
+desc.immersiveintelligence.bullets.core=Заполнен: %1$s %2$s Сердечник
 desc.immersiveintelligence.bullets.fuse=%s Взрыватель
 desc.immersiveintelligence.bullets.mass=Масса: %s
-desc.immersiveintelligence.bullets.caliber=Калибр: %s б\Кал
+desc.immersiveintelligence.bullets.caliber=Калибр: %s bCal
 
 desc.immersiveintelligence.bullets.components=Компоненты:
 desc.immersiveintelligence.bullets.ballistics=%s - Баллистика
@@ -1428,10 +1430,10 @@ datasystem.immersiveintelligence.function.tan=Тангенс
 datasystem.immersiveintelligence.function.and=И
 datasystem.immersiveintelligence.function.or=ИЛИ
 datasystem.immersiveintelligence.function.not=НЕ
-datasystem.immersiveintelligence.function.nand=И-НЕ
-datasystem.immersiveintelligence.function.nor=ИЛИ-НЕ
+datasystem.immersiveintelligence.function.nand=НЕ-И
+datasystem.immersiveintelligence.function.nor=НЕ-ИЛИ
 datasystem.immersiveintelligence.function.xor=Исключающее ИЛИ
-datasystem.immersiveintelligence.function.xnor=Исключающее ИЛИ-НЕ
+datasystem.immersiveintelligence.function.xnor=Исключающее НЕ-ИЛИ
 
 datasystem.immersiveintelligence.function.greater=Больше
 datasystem.immersiveintelligence.function.less=Меньше
@@ -1440,11 +1442,11 @@ datasystem.immersiveintelligence.function.less_or_equal=Меньше или ра
 datasystem.immersiveintelligence.function.equal=Равно
 
 datasystem.immersiveintelligence.function.string_join=Join
-datasystem.immersiveintelligence.function.string_split=Split
+datasystem.immersiveintelligence.function.string_split=Разделить строки
 datasystem.immersiveintelligence.function.string_length=Длина
 datasystem.immersiveintelligence.function.string_char_at=Character At
-datasystem.immersiveintelligence.function.string_substring=Substring
-datasystem.immersiveintelligence.function.string_trim=Trim
+datasystem.immersiveintelligence.function.string_substring=Подстрока
+datasystem.immersiveintelligence.function.string_trim=Обрезать лишние пробелы
 
 datasystem.immersiveintelligence.function.string_hexcol=Использовать шестнадцатизначный формат
 datasystem.immersiveintelligence.function.string_format=Использовать текстовой формат
@@ -1454,11 +1456,11 @@ datasystem.immersiveintelligence.function.string_contains_count=Contained Amount
 datasystem.immersiveintelligence.function.string_replace_first=Заменить Первую
 datasystem.immersiveintelligence.function.string_replace_all=Заменить все
 
-datasystem.immersiveintelligence.function.string_lowercase=To Lowercase
-datasystem.immersiveintelligence.function.string_uppercase=To Uppercase
-datasystem.immersiveintelligence.function.string_snake_case=To snake_case
-datasystem.immersiveintelligence.function.string_camel_case=To camelCase
-datasystem.immersiveintelligence.function.string_reverse=Reverse
+datasystem.immersiveintelligence.function.string_lowercase=В нижний регистр
+datasystem.immersiveintelligence.function.string_uppercase=В верхний регистр
+datasystem.immersiveintelligence.function.string_snake_case=В snake_case
+datasystem.immersiveintelligence.function.string_camel_case=В camelCase
+datasystem.immersiveintelligence.function.string_reverse=Отмена
 
 
 datasystem.immersiveintelligence.function.join=Соединить
@@ -1483,8 +1485,8 @@ datasystem.immersiveintelligence.function.matches_oredict=Соответству
 
 datasystem.immersiveintelligence.function.array_get=Взять
 datasystem.immersiveintelligence.function.array_set=Set
-datasystem.immersiveintelligence.function.array_push=Push
-datasystem.immersiveintelligence.function.array_pop=Pop
+datasystem.immersiveintelligence.function.array_push=Добавить в конец массива
+datasystem.immersiveintelligence.function.array_pop=Удалить последний элемент массива
 datasystem.immersiveintelligence.function.array_swap=Swap
 datasystem.immersiveintelligence.function.array_length=Взять длину
 
@@ -1537,10 +1539,10 @@ datasystem.immersiveintelligence.datatype.boolean.false=Ложь
 /////////////////////////////////////////////////////////////////////////////////////////////
 //Чертежи
 
-desc.immersiveengineering.info.blueprint.basic_circuits=Базовые печатные платы
-desc.immersiveengineering.info.blueprint.advanced_circuits=Продвинутые печатные платы
+desc.immersiveengineering.info.blueprint.basic_circuits=Базовые платы
+desc.immersiveengineering.info.blueprint.advanced_circuits=Продвинутые платы
 desc.immersiveengineering.info.blueprint.processors=Процессоры
-desc.immersiveengineering.info.blueprint.cryptography_circuits=Криптографическые печатные платы
+desc.immersiveengineering.info.blueprint.cryptography_circuits=Криптографические платы
 
 desc.immersiveengineering.info.blueprint.basic_functional_circuits=Базовые функциональные платы
 desc.immersiveengineering.info.blueprint.advanced_functional_circuits=Продвинутые функциональные платы
@@ -1553,9 +1555,9 @@ desc.immersiveengineering.info.blueprint.vulcanizer_molds=Формы для ву
 desc.immersiveengineering.info.blueprint.bullet_magazines=Магазины 
 
 #Keybindings
-key.immersiveintelligence.manualReload=Ручная перезарядка
-key.immersiveintelligence.armorHelmet=Переключение очков легкого инженерного шлема
-key.immersiveintelligence.armorExosuit=Переключение экзоскелета
+key.immersiveintelligence.manualReload=Перезарядка оружия
+key.immersiveintelligence.armorHelmet=Переключение режима работы очков легкого инженерного шлема
+key.immersiveintelligence.armorExosuit=Переключение режима работы экзоскелета
 
 key.immersiveintelligence.mgScope=Увеличение / прицел для пулемёта
 
